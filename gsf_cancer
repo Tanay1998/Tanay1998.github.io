@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<!--[if IE 7]>     <html dir="ltr" lang="en" xmlns:ng="http://angularjs.org" class="ltr no-js ie ie7 ltie10 ltie9 ltie8"> <![endif]-->
+<!--[if IE 8]>     <html dir="ltr" lang="en" xmlns:ng="http://angularjs.org" class="ltr no-js ie ie8 ltie10 ltie9"> <![endif]-->
+<!--[if IE 9]>     <html dir="ltr" lang="enS" xmlns:ng="http://angularjs.org" class="ltr no-js ie ie9 ltie10"> <![endif]-->
+<!--[if gt IE 9]>  <html dir="ltr" lang="en" xmlns:ng="http://angularjs.org" class="ltr no-js ie"> <![endif]-->
+<!--[if !IE]><!--> <html dir="ltr" lang="en" class="ltr no-js"> <!--<![endif]-->
+<head>
+  <title>Your Project - Google Science Fair</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="keywords" content="Google Science Fair"/>
+  <meta name="description" content="Google Science Fair is a global online competition open to students from 13 to 18 years old. What do you want to change?" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1, user-scalable=no" />
+  <meta name="HandheldFriendly" content="True"/>
+  <meta name="MobileOptimized" content="320"/>
+  <meta name="format-detection" content="telephone=no"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+
+
+  <meta property="og:title" content="Your Project - Google Science Fair 2015" />
+  <meta property="og:description" content="Google Science Fair is a global online competition open to students from 13 to 18 years old. What do you want to change?"/>
+
+
+  <meta property="og:image" content="/website/static/affa8b2d7a94b281a5d9c998fd28bb85/images/favicon.png">
+  
+
+  <meta itemprop="name" content="Your Project - Google Science Fair 2015">
+  <meta itemprop="description" content="Google Science Fair is a global online competition open to students from 13 to 18 years old. What do you want to change?">
+
+
+  <meta itemprop="image" content="/website/static/affa8b2d7a94b281a5d9c998fd28bb85/images/favicon.png">
+  
+
+	<link rel="shortcut icon" type="image/png" href="/website/static/affa8b2d7a94b281a5d9c998fd28bb85/images/favicon.png" />
+  <link rel="apple-touch-icon" href="/website/static/affa8b2d7a94b281a5d9c998fd28bb85/images/favicon.png">
+
+  <script src="/js/conf.js?lang=en" type="text/javascript"></script>
+
+  <link href="/projects/static/affa8b2d7a94b281a5d9c998fd28bb85/2015/css/styles-project.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600" rel="stylesheet">
+
+</head>
+<body x-ng-app="GSFProjectSiteApp" x-ng-controller="appCtrl" class="ng-app:GSFProjectSiteApp" id="ng-app">
+
+  <div class="page-container">
+    <div class="page">
+
+      <div class="content-header-bg"></div>
+      <div class="content-header">
+        <div class="valign-table">
+          <div class="valign-cell">
+            <div class="logo sprite"></div>
+                        <h1 x-shrink-text="">Carcinomore: A Novel Machine Learning Based Approach to Early Diagnosis of Cancer</h1>
+                        <div class="social">
+              <a class="share" href="" x-ng-click="showShareUrl()" x-track x-track-category="Project site" x-track-action="Interact" x-track-label="Show share link">Share<span class="icon icon-white"></span><span class="icon icon-pink"></span></a>
+              <div class="gplus-share-container">
+                <a class="gplus-share" href="" target="_blank" x-share-google-plus x-share-url="http://goo.gl/MHCnQg">Share on Google+</a>
+              </div>
+              <form class="form" x-ng-class="{'show-form': shareUrl}" x-ng-cloak>
+                <span class="triangle"></span>
+                <input id="share-url" type="text" value="http://goo.gl/MHCnQg">
+              </form>
+                          </div>
+
+          </div>
+        </div>
+      </div>
+
+      <article class="content-article">
+        <div class="width-limit">
+          <div class="sub-page sub-page-static">
+            <div class="accordion-group">
+
+              <div id="accordion_project-site_section-1" class="accordion" x-accordion x-accordion-group="1" x-ng-class="{'active': accordionState}" x-ng-cloak>
+  <div id="accordion-project-site_section-1-head" role="tab" aria-controls="accordion-project-site_section-1-body" class="accordion-header" x-ng-click="accordionState = !accordionState">
+    <div class="accordion-header-text">
+      <div class="text-align-left" x-valign-text>
+        <h3>Summary</h3>
+      </div>
+    </div>
+    <div class="accordion-header-arrow" x-ng-cloak>
+      <span x-ng-show="!accordionState">
+        <svg class="icon-arrow-thin-down"><use xlink:href="#icon-arrow-thin-down"></use></svg>
+        <span class="offset-left">Open</span>
+      </span>
+      <span x-ng-show="accordionState">
+        <svg class="icon-arrow-thin-up"><use xlink:href="#icon-arrow-thin-up"></use></svg>
+        <span class="offset-left">Close</span>
+      </span>
+    </div>
+  </div>
+  <div class="accordion-body" id="accordion-project-site_section-1-body" aria-labelledby="accordion-project-site_section-1-head" role="tabpanel">
+    <div class="accordion-content clearfix" >
+                      <p>Presentation: <a href="https://goo.gl/yID03k">https://goo.gl/yID03k</a></p>
+<hr/>
+<p>Collectively, lung cancer, breast cancer and melanoma were diagnosed in over <strong>535,340</strong> people and more than <strong>209,400</strong> deaths were reported [13]. It is estimated that over <strong>600,000</strong> people will be diagnosed with these forms of cancer in 2015. Most of the deaths from lung cancer, breast cancer and melanoma result due to late detection. All of these cancers, if detected early, are <strong>100%</strong> curable. The entire study has been divided into three parts: A) Diagnosis of breast cancer, B) Diagnosis of melanoma and C) Diagnosis of lung cancer. In the first part, we employed a normalised Gradient Descent and an Artificial Neural Network to diagnose breast cancer with an overall accuracy of <strong>91% </strong>and<strong> 95%</strong> respectively. In the second part of the study, an artificial neural network coupled with image processing and analysis algorithms was employed to achieve an overall accuracy of <strong>93%.</strong> A mobile based application that allowed people to take diagnostic tests on their phones was developed. Finally, a Support Vector Machine algorithm incorporating image processing and image analysis algorithms was developed to diagnose lung cancer with an accuracy of <strong>94%.</strong> All of the aforementioned systems had very low false positive and false negative rates. We are also developing an online network that incorporates all of these systems and allows people to share and collaborate on projects on a global level. All of these efforts combined together help us diagnose cancer and arrest their growth at an early stage, hence increasing the chances of survival.</p>
+
+              
+    </div>
+    <div role="button" class="btn-icon btn-bottom-right" x-ng-click="accordionState = false">
+      <svg class="icon-close-no-border"><use xlink:href="#icon-close-no-border"></use></svg>
+      <span class="offset-left">Close</span>
+    </div>
+  </div>
+</div>
+
+              <div id="accordion_project-site_section-2" class="accordion" x-accordion x-accordion-group="1" x-ng-class="{'active': accordionState}" x-ng-cloak>
+  <div id="accordion-project-site_section-2-head" role="tab" aria-controls="accordion-project-site_section-2-body" class="accordion-header" x-ng-click="accordionState = !accordionState">
+    <div class="accordion-header-text">
+      <div class="text-align-left" x-valign-text>
+        <h3>About me</h3>
+      </div>
+    </div>
+    <div class="accordion-header-arrow" x-ng-cloak>
+      <span x-ng-show="!accordionState">
+        <svg class="icon-arrow-thin-down"><use xlink:href="#icon-arrow-thin-down"></use></svg>
+        <span class="offset-left">Open</span>
+      </span>
+      <span x-ng-show="accordionState">
+        <svg class="icon-arrow-thin-up"><use xlink:href="#icon-arrow-thin-up"></use></svg>
+        <span class="offset-left">Close</span>
+      </span>
+    </div>
+  </div>
+  <div class="accordion-body" id="accordion-project-site_section-2-body" aria-labelledby="accordion-project-site_section-2-head" role="tabpanel">
+    <div class="accordion-content clearfix" >
+                      <p><strong>Mohnish Chakravarti</strong></p>
+<p>Mohnish is a 12th-grade student at Pace Junior Science College, Mumbai, India. He loves mathematics. His current areas of interest include machine learning, combinatorics, quantitative finance and bioinformatics. In the future, Mohnish aspires to pursue further studies in applied mathematics and computer science. </p>
+<p><strong>Tanay Kothari</strong></p>
+<p>Tanay is a 12th-grade student at Delhi Public School, R. K. Puram, New Delhi. He has been developing software applications and Artificial Intelligence programs for the past 3 years. His current areas of interest include artificial intelligence, natural language processing, software development, quantum mechanics, number theory and bioinformatics. In the future, Tanay aspires to study Computer Science and Mathematics and apply his knowledge to help make the world a better place to live in.</p>
+<p><strong>Mehak Rajput</strong></p>
+<p>Mehak is a 12th-grade student at Ahlcon International School, Delhi. She aspires to become a cardiologist and contribute towards treating hearts and saving lives.</p>
+<hr/>
+<p>The dream to save the lives of thousands of people who succumb to cancer every year due to late diagnosis kept us working on this project and coding for hours at a stretch. The Google Science Fair provides us with a platform to present our research globally - something that we feel is required at this stage of the project. Sure, winning the Google Science Fair will bring us a lot of joy, but seeing people together with their loved ones and living moments that they will cherish for their entire lives is what matters the most to us.</p>
+
+              
+    </div>
+    <div role="button" class="btn-icon btn-bottom-right" x-ng-click="accordionState = false">
+      <svg class="icon-close-no-border"><use xlink:href="#icon-close-no-border"></use></svg>
+      <span class="offset-left">Close</span>
+    </div>
+  </div>
+</div>
+
+              <div id="accordion_project-site_section-3" class="accordion" x-accordion x-accordion-group="1" x-ng-class="{'active': accordionState}" x-ng-cloak>
+  <div id="accordion-project-site_section-3-head" role="tab" aria-controls="accordion-project-site_section-3-body" class="accordion-header" x-ng-click="accordionState = !accordionState">
+    <div class="accordion-header-text">
+      <div class="text-align-left" x-valign-text>
+        <h3>Question / Proposal</h3>
+      </div>
+    </div>
+    <div class="accordion-header-arrow" x-ng-cloak>
+      <span x-ng-show="!accordionState">
+        <svg class="icon-arrow-thin-down"><use xlink:href="#icon-arrow-thin-down"></use></svg>
+        <span class="offset-left">Open</span>
+      </span>
+      <span x-ng-show="accordionState">
+        <svg class="icon-arrow-thin-up"><use xlink:href="#icon-arrow-thin-up"></use></svg>
+        <span class="offset-left">Close</span>
+      </span>
+    </div>
+  </div>
+  <div class="accordion-body" id="accordion-project-site_section-3-body" aria-labelledby="accordion-project-site_section-3-head" role="tabpanel">
+    <div class="accordion-content clearfix" >
+                      <h3>Can machine learning algorithms such as ANN, SVM, gradient descent be used for diagnosing breast cancer, lung cancer and melanoma?</h3>
+<p>Misdiagnosis and late diagnosis are two major causes of cancer related deaths. With over <strong>500,000</strong> people diagnosed with breast cancer, lung cancer and melanoma and over <strong>209,400 </strong>deaths occurring last year alone, it is imperative that we devise an approach to early and accurate diagnosis of cancer thus, improving the chances of survival. When people conduct diagnostic tests, there is always a room for error. However, the probability of a properly trained algorithm to misdiagnose cancer based on the data that it is provided with is relatively low. In this study, we develop and test three novel machine learning algorithms for the same purpose.</p>
+<p>Our main goal is to achieve the following after developing machine learning algorithms which can diagnose cancer at an early stage with high accuracy (90%) : </p>
+<p><strong>A) A mobile based application for the diagnosis of melanoma</strong></p>
+<p>With a mobile application, people will be able to take diagnostic tests on their mobile phones with the help of their cameras at any time and place, thus saving time and money.</p>
+<p><strong>B) An online cancer diagnosis network</strong></p>
+<p>An online network will allow the creation of a global network of cancer researchers working on diagnosis. Such a system will make sharing of data easy and facilitate the improvement in accuracy of deep learning online algorithms. Also, such a system can be readily implemented in hospitals.</p>
+
+              
+    </div>
+    <div role="button" class="btn-icon btn-bottom-right" x-ng-click="accordionState = false">
+      <svg class="icon-close-no-border"><use xlink:href="#icon-close-no-border"></use></svg>
+      <span class="offset-left">Close</span>
+    </div>
+  </div>
+</div>
+
+              <div id="accordion_project-site_section-4" class="accordion" x-accordion x-accordion-group="1" x-ng-class="{'active': accordionState}" x-ng-cloak>
+  <div id="accordion-project-site_section-4-head" role="tab" aria-controls="accordion-project-site_section-4-body" class="accordion-header" x-ng-click="accordionState = !accordionState">
+    <div class="accordion-header-text">
+      <div class="text-align-left" x-valign-text>
+        <h3>Research</h3>
+      </div>
+    </div>
+    <div class="accordion-header-arrow" x-ng-cloak>
+      <span x-ng-show="!accordionState">
+        <svg class="icon-arrow-thin-down"><use xlink:href="#icon-arrow-thin-down"></use></svg>
+        <span class="offset-left">Open</span>
+      </span>
+      <span x-ng-show="accordionState">
+        <svg class="icon-arrow-thin-up"><use xlink:href="#icon-arrow-thin-up"></use></svg>
+        <span class="offset-left">Close</span>
+      </span>
+    </div>
+  </div>
+  <div class="accordion-body" id="accordion-project-site_section-4-body" aria-labelledby="accordion-project-site_section-4-head" role="tabpanel">
+    <div class="accordion-content clearfix" >
+                      <p>Breast cancer, lung cancer and melanoma together account for over 30% of the total cases of cancer reported in 2014. With over 200,000 deaths last year and an expected 300,000 deaths this year, it is imperative that measures are taken to prevent the rise in the deaths occurring collectively due to these diseases. </p>
+<p><iframe height="320" src="//docs.google.com/spreadsheets/d/1iIM_EMxfxevx-p5tn8OfbU20Wbwx6nZqHfaMmwTUc6A/htmlembed" width="100%"></iframe></p>
+<p> </p>
+<p>The 5-year survival rate for lung cancer is <strong>54%</strong> However, if not diagnosed early, the chances of survival reduce drastically to <strong>16%</strong>. The 5-year survival rate for breast cancer is <strong>86%</strong> but it falls to<strong> 22%</strong> if not diagnosed early. Finally, the 5-year survival rate for melanoma is <strong>95%</strong> but it falls to <strong>22%</strong> if not diagnosed early. All of these diseases, if diagnosed early, are <strong>100%</strong> curable. To diagnose these diseases early, we develop and apply novel machine learning algorithms. </p>
+<p>In 2007, the Universiti Sains Malaysia and Universiti Malaysia Perlis collaborated to collect data similar to WBC. This data was utilized to build diagnostic programs. Seven implementations were tested and results proved encouraging; accuracy ranged between <strong>75.38%</strong> and <strong>100%</strong>. The purely AI based programs did not fare as well as conventionally programmed implementations, but showed promise. Over the years, further research has been done in AI and their applications to biomedicine ([15], [16], [17]).</p>
+<p>There are several benefits to using AI in the field of biomedicine. AI eliminates the added dimension of mistakes committed due to human carelessness. The extensive amount of data available online also makes it possible for the algorithms to train themselves and achieve near perfect accuracy - something that is very difficult for any human to achieve. Furthermore, it is easy to replicate and can be shared globally, thus reducing costs associated with logistics and labor force. </p>
+<p>For this study, machine learning algorithms such as Support Vector Machine, Artificial Neural Network and Gradient Descent were used. Image processing and analysis was also used to obtain features from images in the case of lung cancer and melanoma. </p>
+<p>The next step was feature selection. For breast cancer, features such as the smoothness, concavity, fractal dimension, etc. were used from the WBC database. For lung cancer, image processing and analysis was applied on CT images from the NCBI database to obtain features such as area, convex area, solidity, etc. For melanoma, the ABCD standard prescribed by dermatologists was used. The images were obtained through the PH<sup>2 </sup>dataset.</p>
+<hr/>
+<p><strong>Applications of Research</strong></p>
+<p>A naive mobile based application incorporating the melanoma diagnostic algorithm was developed.It allows people to take diagnostic tests through their mobile phones. The test reports get stored online and people can send the reports to their dermatologists easily.</p>
+<p>Apart from that, an online network is proposed that allows researchers all over the globe to access the diagnostic system and share and contribute to the further development of such diagnostic system. Such a system will be readily implementable in clinics and the network of hospitals and clinics thus formed would constantly provide new data for the online algorithm to adapt to and increase its performance. </p>
+<p> </p>
+<p> </p>
+
+              
+    </div>
+    <div role="button" class="btn-icon btn-bottom-right" x-ng-click="accordionState = false">
+      <svg class="icon-close-no-border"><use xlink:href="#icon-close-no-border"></use></svg>
+      <span class="offset-left">Close</span>
+    </div>
+  </div>
+</div>
+
+              <div id="accordion_project-site_section-5" class="accordion" x-accordion x-accordion-group="1" x-ng-class="{'active': accordionState}" x-ng-cloak>
+  <div id="accordion-project-site_section-5-head" role="tab" aria-controls="accordion-project-site_section-5-body" class="accordion-header" x-ng-click="accordionState = !accordionState">
+    <div class="accordion-header-text">
+      <div class="text-align-left" x-valign-text>
+        <h3>Method / Testing and Redesign</h3>
+      </div>
+    </div>
+    <div class="accordion-header-arrow" x-ng-cloak>
+      <span x-ng-show="!accordionState">
+        <svg class="icon-arrow-thin-down"><use xlink:href="#icon-arrow-thin-down"></use></svg>
+        <span class="offset-left">Open</span>
+      </span>
+      <span x-ng-show="accordionState">
+        <svg class="icon-arrow-thin-up"><use xlink:href="#icon-arrow-thin-up"></use></svg>
+        <span class="offset-left">Close</span>
+      </span>
+    </div>
+  </div>
+  <div class="accordion-body" id="accordion-project-site_section-5-body" aria-labelledby="accordion-project-site_section-5-head" role="tabpanel">
+    <div class="accordion-content clearfix" >
+                      <h3>1. Lung Cancer</h3>
+<p>Approach used: SVM coupled with image analysis algorithms.</p>
+<hr/>
+<p><strong>A. Image pre-processing, processing and segmentation</strong></p>
+<p><a href="http://en.wikipedia.org/wiki/Total_variation_denoising">Total variation denonising</a> was used in the pre-processing stage. It is very effective at  preserving edges while smoothing away noise in flat regions, even at low signal-to-noise ratios. </p>
+<p>There are two types of pixels in chest CT images: 1) Pixels within the dense body and chest wall structures. 2) Low density pixels. The optimal thresholding proposed in [19] is applied to the pre-processed image to obtain a segmentation threshold. </p>
+<p>                                                                   <img resize-to-fit alt="" data-src="https://lh3.googleusercontent.com/-7aZM-Wvm8yE/VUXN5gEjnjI/AAAAAAAAAO0/C2_NJopNN88/w900/Screen%2BShot%2B2015-05-03%2Bat%2B12.56.15%2Bpm.png"/></p>
+<p> </p>
+<p>The pixels with a density lower than the threshold value are assigned the value 1 whereas other pixels are assigned the value of 0. The remaining non-body pixels are eliminated through morphological closing.</p>
+<p><strong>B. Feature Extraction</strong></p>
+<p>After the ROI was obtained, <a href="http://www.fp.ucalgary.ca/mhallbey/tutorial.htm">GLCM</a> was used to extract the features. The features extracted and the methods used were:</p>
+<p><iframe height="320" src="//docs.google.com/document/d/11ythnOWMEDHpGdKk7PIY-PWg5hROSJASbMaqwnKS0R8/preview" width="100%"></iframe></p>
+<p> </p>
+<p><strong>C. SVM classification</strong></p>
+<p>A linear classifier was used. Best hyper plane is the one that represents the largest separation or margin between the two classes. So we chose the hyperplane so that the distance from it to the nearest data point on each side is maximized. If such a hyper plane exists, it is known as the maximum margin hyperplane and the linear classifier it defines is known as a maximum classifier.</p>
+<p><img resize-to-fit alt="" data-src="https://lh3.googleusercontent.com/-GYMBcQOje6A/VVpT-kbDVKI/AAAAAAAAI5k/zpxqB0e7A1Y/w300/image44.png"/></p>
+<p> </p>
+<p>The CT images used were obtained from NCBI's online database. </p>
+<hr/>
+<h3>2. Melanoma</h3>
+<p>Approach used: ANN coupled with image analysis algorithms. </p>
+<hr/>
+<p><strong>A. Image pre-processing, processing and segmentation</strong></p>
+<p>Noise such as hair was removed using morphological closing. An accurate border was determined. The gradient function was used. </p>
+<p><strong>B. Feature Selection</strong></p>
+<p>Features such as asymmetry along the minor axes, asymmetry along the major axis, border irregularity, entropy, color variation, diameter, etc. were extracted using built-in or custom coded functions. The asymmetry of the lesion was determined by overlapping the halves of the images on their major and minor axes. The border was also calculated using in-built functions we used an innovative out-in search approach to accurately determine the border.</p>
+<p><strong>C. ANN Development</strong></p>
+<p>The neural network was developed using an in-built toolbox. The features extracted were given numerical values and used as input in the ANN. An example of the network shown in the image below. </p>
+<p><img resize-to-fit alt="" data-src="https://lh3.googleusercontent.com/-uS37yCDDau4/VQGAikkVIBI/AAAAAAAAAGU/Dj4AtVtFqRI/w900/Screen%2BShot%2B2015-03-12%2Bat%2B5.32.34%2Bpm.png"/></p>
+<p> </p>
+<p><img resize-to-fit alt="" data-src="https://lh3.googleusercontent.com/-Ph25p7EtpAI/VVnrn7-nPmI/AAAAAAAAAUk/T6RQz_Y1jIA/w300/Screen%2BShot%2B2015-05-18%2Bat%2B7.08.26%2Bpm.png"/></p>
+<p> </p>
+<p><strong>D. Development of the application.</strong></p>
+<p>The ANN was converted into a standalone service and deployed on the web. It was then integrated into the mobile application. The following images help understand the flow of the application more clearly.</p>
+<p> </p>
+<p><img resize-to-fit alt="" data-src="https://lh3.googleusercontent.com/-m_1k1BHQFDM/VUd2KHKx4uI/AAAAAAAAAQM/Pa_DkxRlSbs/w900/Screen%2BShot%2B2015-05-04%2Bat%2B7.07.01%2Bpm.png"/></p>
+<p><img resize-to-fit alt="" data-src="https://lh3.googleusercontent.com/-xIany3jHJFM/VVEK6-pzHpI/AAAAAAAAI2A/vVmBST3KqhE/w300/Melanoma%2Bfinal.png"/></p>
+<hr/>
+<h3>3. Breast Cancer</h3>
+<p>Approach used: ANN, Gradient Descent.</p>
+<hr/>
+<p><strong>A. Feature Selection.</strong></p>
+<p><iframe height="320" src="//docs.google.com/document/d/1jPyQ8GrHSUK88hPuihLJUzOXciIr0cHyJjzSIl_Fk60/preview" width="100%"></iframe></p>
+<p><strong>B. ANN: </strong>A custom ANN consisting of 7 layers was developed to process the dataset and achieve optimal results. This algorithm will be further modified to incorporate online learning as well.  </p>
+<p>Refer to 2. C for a clearer report on ANNs in general.</p>
+
+              
+    </div>
+    <div role="button" class="btn-icon btn-bottom-right" x-ng-click="accordionState = false">
+      <svg class="icon-close-no-border"><use xlink:href="#icon-close-no-border"></use></svg>
+      <span class="offset-left">Close</span>
+    </div>
+  </div>
+</div>
+
+              <div id="accordion_project-site_section-6" class="accordion" x-accordion x-accordion-group="1" x-ng-class="{'active': accordionState}" x-ng-cloak>
+  <div id="accordion-project-site_section-6-head" role="tab" aria-controls="accordion-project-site_section-6-body" class="accordion-header" x-ng-click="accordionState = !accordionState">
+    <div class="accordion-header-text">
+      <div class="text-align-left" x-valign-text>
+        <h3>Results</h3>
+      </div>
+    </div>
+    <div class="accordion-header-arrow" x-ng-cloak>
+      <span x-ng-show="!accordionState">
+        <svg class="icon-arrow-thin-down"><use xlink:href="#icon-arrow-thin-down"></use></svg>
+        <span class="offset-left">Open</span>
+      </span>
+      <span x-ng-show="accordionState">
+        <svg class="icon-arrow-thin-up"><use xlink:href="#icon-arrow-thin-up"></use></svg>
+        <span class="offset-left">Close</span>
+      </span>
+    </div>
+  </div>
+  <div class="accordion-body" id="accordion-project-site_section-6-body" aria-labelledby="accordion-project-site_section-6-head" role="tabpanel">
+    <div class="accordion-content clearfix" >
+                      <h3>1. Melanoma</h3>
+<p>The ANN employed in the prototype of the application had a promising accuracy of 92% For training and validating purposed over 450 images were used (400 from PH2 dataset and 56 images sourced from other publicly available datasets) Throughout the training period, from an initial accuracy of 85% at use of 250 images, it gradually increased in accuracy to 93% at the end of 450 images used. Also, the FP, FN, TP, TN and the inconclusive rates were very low.</p>
+<p>The training/test breakdown in this case was 70/30</p>
+<p><img resize-to-fit alt="" data-src="https://lh3.googleusercontent.com/-Gs-bb-24w5U/VUcNznpnp6I/AAAAAAAAAPM/hkDRcgm1lq0/w900/graphimage1.png"/></p>
+<p> </p>
+<p>As the training size and the increased, the inconclusive diagnosis rate reduced too. </p>
+<p><img resize-to-fit alt="" data-src="https://lh3.googleusercontent.com/-KoRGxE-b0ao/VUcOQ8j6-AI/AAAAAAAAAPY/TX9X97qCFE0/w900/graphimage2.png"/></p>
+<p> </p>
+<p>A T-test was taken to prove that the values calculated for asymmetry and border were actually different for both cases - malign as well as benign. The results of the t-test showed that both the groups were significantly different as both of them had extremely low probability values to be in the same group.</p>
+<p>T-test Values</p>
+<table style="width:500px">
+<tbody>
+<tr>
+<td>Border</td>
+<td>6.19 x 10<sup>-7</sup></td>
+</tr>
+<tr>
+<td>Asymmetry</td>
+<td>8.12 x 10<sup>-5</sup></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>The following table corroborates the high accuracy that our ANN delivers.</p>
+<p><img resize-to-fit alt="" data-src="https://lh3.googleusercontent.com/-IUtxbBGjQcM/VVnMrvmE2LI/AAAAAAAAI4s/ARR7qx5IwIk/w300/Melsum.png"/></p>
+<p><strong>Mobile Application</strong></p>
+<p>The neural network system was converted into a standalone package and deployed on the web. A naive mobile application that accessed the web service and returned the results in real time was then created. Although there were a few bugs (freezing of window on sending the photo, etc), the mobile application showed promise by accurately and properly diagnosing and reporting 20 of the cases that were tested.</p>
+<p><img resize-to-fit alt="" data-src="https://lh3.googleusercontent.com/-m_1k1BHQFDM/VUd2KHKx4uI/AAAAAAAAAQI/uxvl45y5P4o/w900/Screen%2BShot%2B2015-05-04%2Bat%2B7.07.01%2Bpm.png"/></p>
+<p> </p>
+<hr/>
+<h3>2. Breast Cancer</h3>
+<p>Both the algorithms that were designed for diagnosing breast cancer delivered a high level of accuracy. The ANN rose in accuracy from 87% to around 95% on increase in training size. The gradient descent delivered an accuracy of 91% after 5000 iterations. The false positive and false negative rate in this case, was low too.</p>
+<p>The training/testing breakdown in this case was 55/45</p>
+<p><img resize-to-fit alt="" data-src="https://lh3.googleusercontent.com/-jXdNYfVjGSI/VUd5BEdoG0I/AAAAAAAAAQY/bTquUflxTqU/w300/bc1.png"/></p>
+<p> </p>
+<p><img resize-to-fit alt="" data-src="https://lh3.googleusercontent.com/-euk9ECyiP00/VUd5EqNSdQI/AAAAAAAAAQk/BhtOpbLnPyc/w300/bc2.png"/></p>
+<p> </p>
+<p>A summary of the algorithm's performance:</p>
+<p><img resize-to-fit alt="" data-src="https://lh3.googleusercontent.com/-lyx8T91rmaE/VVnM17qbp3I/AAAAAAAAI44/qItWWpgQShk/w300/BCSum.png"/></p>
+<hr/>
+<h3>3. Lung Cancer</h3>
+<p>Over 197 images were tested on the SVM. The classifier only chose 2 out of the 9 features available for classification at any given time. It was seen that the most reliable features were Area and Convex Area (please refer to the table in the results section)</p>
+<p>The training/testing breakdown in this case was 70/30</p>
+<p>Based on the classification, the tumor was either diagnosed as benign or malignant. The SVM delivered an accuracy of over 94%, mis- diagnosing only 11 of the images. 5 were false positive and 6 were false negative. A far more accurate measurement would result in an improvement in accuracy.</p>
+<p>The overall accuracy delivered by the SVM was, as noted earlier, 94% A table below summarizes the results from this experiment:</p>
+<p><img resize-to-fit alt="" data-src="https://lh3.googleusercontent.com/-cqROFJo6WSI/VVnM5-EWxVI/AAAAAAAAI5E/CIDOBUkoyiI/w300/LCsum.png"/></p>
+<hr/>
+<p>The online network is currently under development (as of May 12th, 2015). Furthur details will be released soon.</p>
+<p>For a more comprehensive report, please refer to the pre-print of the paper on Arxiv <a href="http://arxiv.org/abs/1505.01345">here</a>. </p>
+<p> </p>
+
+              
+    </div>
+    <div role="button" class="btn-icon btn-bottom-right" x-ng-click="accordionState = false">
+      <svg class="icon-close-no-border"><use xlink:href="#icon-close-no-border"></use></svg>
+      <span class="offset-left">Close</span>
+    </div>
+  </div>
+</div>
+
+              <div id="accordion_project-site_section-7" class="accordion" x-accordion x-accordion-group="1" x-ng-class="{'active': accordionState}" x-ng-cloak>
+  <div id="accordion-project-site_section-7-head" role="tab" aria-controls="accordion-project-site_section-7-body" class="accordion-header" x-ng-click="accordionState = !accordionState">
+    <div class="accordion-header-text">
+      <div class="text-align-left" x-valign-text>
+        <h3>Conclusion / Report</h3>
+      </div>
+    </div>
+    <div class="accordion-header-arrow" x-ng-cloak>
+      <span x-ng-show="!accordionState">
+        <svg class="icon-arrow-thin-down"><use xlink:href="#icon-arrow-thin-down"></use></svg>
+        <span class="offset-left">Open</span>
+      </span>
+      <span x-ng-show="accordionState">
+        <svg class="icon-arrow-thin-up"><use xlink:href="#icon-arrow-thin-up"></use></svg>
+        <span class="offset-left">Close</span>
+      </span>
+    </div>
+  </div>
+  <div class="accordion-body" id="accordion-project-site_section-7-body" aria-labelledby="accordion-project-site_section-7-head" role="tabpanel">
+    <div class="accordion-content clearfix" >
+                      <p>Our algorithms achieved a high accuracy: The ANN used for detecting melanoma achieved an accuracy of 93%, The ANN and the Gradient Descent used for detecting breast cancer achieved an accuracy of 95% and 91% and the SVM used for detecting lung cancer achieved an accuracy of 94% These algorithms also succeeded in achieving a very low false positive and false negative rate, indicating that our experiments were a success. All the algorithms used in this study were custom-coded. The ever learning nature of the algorithms make it possible for them to achieve near perfect accuracy on an increase in training size - something that an online network proposed below will facilitate.</p>
+<p>Image processing and image analysis was used to obtain data directly from the CT scans and the skin images in the cases of lung cancer and melanoma. We decided to go forward with using the WBC dataset because it has been historically proven to be reliable. Images of the melanoma skin lesions as well as CT scans were taken from online databases (primarily PH<sup>2</sup> dataset and NCBI cancer imaging archive) We feel that the image processing algorithms gave us an advantage by allowing us to directly obtain data from the images. We also attribute the success of our experiments to our selection of features and methods for their calculations which were based on our exhaustive research of the work done in the past.</p>
+<p>Although previous work has succeeded in building computer aided systems for diagnosis (CAD) of diseases, CAD of cancer has only recently gained traction. Our results are comparable to the seminal works in this field. In addition to our near perfect algorithms, image processing and analysis algorithms and feature selections, we feel that the construction of a naive mobile application in the case of melanoma diagnosis is something that people will greatly benefit from. The mobile application allows people directly access and take diagnostic tests on their mobile phones, hence eliminating costs associated with logistics and consultation. This is a boon in a world where consultation fees are sky-rocketing. In addition to this, a mobile application makes it feasible to carry out reliable tests in resources poor areas where taking exhaustive tests is not at all possible. Although problems were faced while creating the mobile application, we successfully created an albeit naive, a working mobile application. </p>
+<p>On observation, our algorithms also outperform several commercial softwares such as SkinSeg. With virtually no commercial software available for lung cancer and breast cancer diagnosis, we further plan to develop novel softwares that can be readily implemented in clinics all around the world. This will facilitate a global collaborative organisation that works on diagnosis research and also uses our softwares to actually diagnose diseases.</p>
+<p>Currently, a manuscript has been developed and it has been sent for publication in a peer reviewed journal. In the future, we plan to develop diagnostic algorithms for other diseases. We are also working on the proposed mobile application and online network. </p>
+
+              
+    </div>
+    <div role="button" class="btn-icon btn-bottom-right" x-ng-click="accordionState = false">
+      <svg class="icon-close-no-border"><use xlink:href="#icon-close-no-border"></use></svg>
+      <span class="offset-left">Close</span>
+    </div>
+  </div>
+</div>
+
+              <div id="accordion_project-site_section-8" class="accordion" x-accordion x-accordion-group="1" x-ng-class="{'active': accordionState}" x-ng-cloak>
+  <div id="accordion-project-site_section-8-head" role="tab" aria-controls="accordion-project-site_section-8-body" class="accordion-header" x-ng-click="accordionState = !accordionState">
+    <div class="accordion-header-text">
+      <div class="text-align-left" x-valign-text>
+        <h3>Bibliography, References and Acknowledgements</h3>
+      </div>
+    </div>
+    <div class="accordion-header-arrow" x-ng-cloak>
+      <span x-ng-show="!accordionState">
+        <svg class="icon-arrow-thin-down"><use xlink:href="#icon-arrow-thin-down"></use></svg>
+        <span class="offset-left">Open</span>
+      </span>
+      <span x-ng-show="accordionState">
+        <svg class="icon-arrow-thin-up"><use xlink:href="#icon-arrow-thin-up"></use></svg>
+        <span class="offset-left">Close</span>
+      </span>
+    </div>
+  </div>
+  <div class="accordion-body" id="accordion-project-site_section-8-body" aria-labelledby="accordion-project-site_section-8-head" role="tabpanel">
+    <div class="accordion-content clearfix" >
+                      <h3><strong>Acknowledgements</strong></h3>
+<p>We would like to thank our family and friends for their tremendous support throughout the course of this project. Mohnish would also like to thank Giovanni Parmigiani, Chair and Professor, Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute for his invaluable support and advice.</p>
+<p>We would like to thank Coursera (Philip Klien and Andrew Ng in general) for creating informative courses that served as the base of all our understanding computer science and mathematics. Without the informative courses on Coursera, this project would have never seen the light of the day.</p>
+<p>Finally, we would also like to thank the University of Porto, NCBI for letting us use their database.</p>
+<hr/>
+<h3><strong>Bibliography</strong></h3>
+<p>[1]  Teresa M, Pedro M. F, Jorge Marques et al. PH² - A dermoscopic image database for research and benchmarking, 35th International Conference of the IEEE Engineering in Medicine and Biology Society, pp.5437-5440, July 3-7, 2013, Osaka, Japan.</p>
+<p>[2] Tomatis S, Bono A et al. Automated melanoma detection: multispectral imaging and neural network approach for classification, Med Phys. 2003 Feb;30(2): 212-21.</p>
+<p>[3] Nasser H. Sweilam et al. Support vector machine for diagnosis cancer disease: A comparative study, Egyptian Informatics Journal, Dec 2010(11); 81–92</p>
+<p>[4] Harald Ganster et al.  Automated Melanoma Recognition, IEEE Transactions on Medical Imaging, March 2001 (20.3)</p>
+<p>[5] http://www.skincancer.org/skin-cancer-information/melanoma/melanoma-warning-signs-and-images/do-you-know-your-abcdes. Web</p>
+<p>[6] Fikret Ercal et al. Neural Network Diagnosis of Malignant Melanoma From Color Images, IEEE Transactions on Biomedical Engineering, (41.9)</p>
+<p>[7] Ayman El-Baz, Aly A. Farag, Robert Falk, Renato La Rocca. Detection, Visualization and identification of Lung Abnormalities in Chest Spiral CT Scan: Phase-I, <em>International Conference on Biomedical Engineering</em>, Cairo, Egypt, 12-01-2002.</p>
+<p>[9] Armato, S.G., M.L. Giger and H. MacMahon, 2001. Automated detection of lung nodules in CT scans: Preliminary results. Med. Phys., 28: 1552-1561.</p>
+<p>[10] Gurcan, M.N., B. Sahiner, N. Petrick, H. Chan and E.A. Kazerooni, et al ., 2002. Lung nodule detection on thoracic computed tomography images: Preliminary evaluation of a computer aided diagnosis system. Med. Phys., 29: 2552-2558.</p>
+<p>[11] Hara, T., H. Fujita, Y. Lee, H. Yoshimura and S. Kido, 1999. Automated Lesion Detection Methods for 2D and 3D Chest X-Ray Images. Proceedings of the 10th International Conference on Image Analysis and Processing, Sep 27-29, Venice, Italy, pp: 768-773. </p>
+<p>[12] Penedo, M.G, M.J. Carreira., A. Mosquera and D. Cabello, 1998. Computer-aided diagnosis: a neural-network based approach to lung nodule detection. IEEE Trans. Med. Image., 17: 872-880. ISSN: 0278-0062</p>
+<p>[13] http://www.cancer.org/research/cancerfactsstatistics/cancerfactsfigures2014/. Web</p>
+<p>[14] Ruey-Feng Chang, PhD, Wen-Jie Wu, MS et al. Support Vector Machines for Diagnosis of Breast Tumors on US Images.</p>
+<p>[15] Qeethara Kadhim Al-Shayea. Artificial Neural Networks in Medical Diagnosis. IJCSI International Journal of Computer Science Issues, Vol. 8, Issue 2, March 2011</p>
+<p>[16] T.Jayalakshmi and Dr.A.Santhakumaran. Improved Gradient Descent Back Propagation Neural Networks for Diagnoses of Type II Diabetes Mellitus. Global Journal of Computer Science and Technology Vol. 9 Issue 5 (Ver 2.0), January 2010</p>
+<p>[17] Filippo Amato, Alberto López Artificial neural networks in medical diagnosis. Journal of Applied Biomedicine Volume 11, Issue 2, 2013, Pages 47–58</p>
+<p>[18] American Lung Association. Lung Cancer Fact Sheet. http://www.lung.org/lung-disease/lung-cancer/resources/facts-figures/lung-cancer-fact-sheet.html</p>
+<p>[19] R.-E. Fan, P.-H. Chen, and C.-J. Lin. Working set selection using the second order information for training SVM. Journal of Machine Learning Research 6, 1889-1918, 2005</p>
+<p>[20] O. L. Mangasarian and W. H. Wolberg: "Cancer diagnosis via linear programming", SIAM News, Volume 23, Number 5, September 1990, pp 1 &amp; 18.</p>
+<p>[21] William H. Wolberg and O.L. Mangasarian: "Multisurface method of pattern separation for medical diagnosis applied to breast cytology", Proceedings of the National Academy of Sciences, U.S.A., Volume 87, December 1990, pp 9193-9196.</p>
+<p>[22] Tidke, Chakkarwar. "Classification of Lung Tumour Using SVM" IJCER, Vol 2 (5).</p>
+<p>[23] O. L. Mangasarian, R. Setiono, and W.H. Wolberg: "Pattern recognition via linear programming: Theory and application to medical diagnosis", in: "Large-scale numerical optimization", Thomas F. Coleman and Yuying Li, editors, SIAM Publications, Philadelphia 1990, pp 22-30.</p>
+<p>[24] K. P. Bennett &amp; O. L. Mangasarian: "Robust linear programming discrimination of two linearly inseparable sets", Optimization Methods and Software 1, 1992, 23-34 (Gordon &amp; Breach Science Publishers).</p>
+<p>[25] Rudy Setiono: Extracting rules from pruned neural networks for breast cancer diagnosis</p>
+<hr/>
+<p>The programming languages and interfaces used in this study were: <a href="https://www.python.org">Python</a>, <a href="http://www.gnu.org/software/octave/">Octave</a> and <a href="http://en.wikipedia.org/wiki/MATLAB">MATLAB</a>. The sources of datasets and image databases is given above in the <strong>Bibliography</strong> section. A manuscript has been developed and sent for review in a peer-reviewed journal. You can find a pre-print version of it on Arxiv<a href="http://arxiv.org/abs/1505.01345"> here</a></p>
+<hr/>
+<h3><strong>Glossary</strong></h3>
+<p>ANN: Artificial Neural Network.</p>
+<p>SVM: Support Vector Machine.</p>
+<p>GD: Gradient Descent.</p>
+<p>TP/TN: True Positive/Negative.</p>
+<p>FP/FN: False Positive/Negative.</p>
+<p>WBC: Wisconsin Diagnostic Breast Cancer database.</p>
+<p>NCBI: National Center for Biotechnology Information.</p>
+<p>ABCD: Asymmetry, Border, Diameter, Color.</p>
+<p>GLCM: Gray-Level Co-Occurrence Matrix.</p>
+<p>CT: Computerised Tomography.</p>
+
+              
+    </div>
+    <div role="button" class="btn-icon btn-bottom-right" x-ng-click="accordionState = false">
+      <svg class="icon-close-no-border"><use xlink:href="#icon-close-no-border"></use></svg>
+      <span class="offset-left">Close</span>
+    </div>
+  </div>
+</div>
+
+            </div>
+          </div>
+        </div>
+      </article>
+
+    </div>
+  </div>
+
+  <footer id="footer" class="page-footer footer-container">
+    <div class="footer-top">
+      <div class="width-limit">
+        <div class="left">
+          <div class="valign-table">
+            <div class="valign-cell">
+              <a class="pull-left icon icon-misc icon-gplus" href="https://plus.google.com/+GoogleScienceFair" target="_blank" x-track x-track-category="Footer" x-track-action="Click" x-track-label="Google+">Google Plus</a>
+              <a class="pull-left icon icon-misc icon-youtube" href="https://www.youtube.com/user/GoogleScienceFair" target="_blank" x-track x-track-category="Footer" x-track-action="Click" x-track-label="YouTube">Youtube</a>
+              <p>
+                <!--a class="footer-top-link" href="/website/static/affa8b2d7a94b281a5d9c998fd28bb85/downloads/en/GSF2015_rules.pdf" target="_blank" x-track x-track-category="Footer" x-track-action="Click" x-track-label="Science Fair rules">Science Fair rules</a> |-->
+                                  <a class="footer-top-link" href="https://groups.google.com/d/forum/google-science-fair-help-forum" target="_blank" x-track x-track-category="Footer" x-track-action="Click" x-track-label="Help forum">Help forum</a>
+                              </p>
+            </div>
+          </div>
+        </div>
+        <div class="right">
+          <div class="footer-logos clearfix">
+            <a class="sprite footer-logo logo5" href="/en/competition/partners?id=insert_partners_4" x-track x-track-category="Footer" x-track-action="Click" x-track-label="Virgin Galactic"></a>
+            <a class="sprite footer-logo logo4" href="/en/competition/partners?id=insert_partners_1" x-track x-track-category="Footer" x-track-action="Click" x-track-label="Scientific American"></a>
+            <a class="sprite footer-logo logo3" href="/en/competition/partners?id=insert_partners_3" x-track x-track-category="Footer" x-track-action="Click" x-track-label="National Geographic"></a>
+            <a class="sprite footer-logo logo2" href="/en/competition/partners?id=insert_partners_2" x-track x-track-category="Footer" x-track-action="Click" x-track-label="Lego"></a>
+            <a class="sprite footer-logo logo1" href="http://www.google.com" target="_blank" x-track x-track-category="Footer" x-track-action="Click" x-track-label="Google"></a>
+          </div>
+          <p>LEGO and the LEGO logo are trademarks of the LEGO group. ©2012 The LEGO Group.</p>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="width-limit">
+        <p><a class="privacy-link" href="http://www.google.com" target="_blank" x-track x-track-category="Footer" x-track-action="Click" x-track-label="Google">Google</a> &#8226; <a class="privacy-link" href="https://www.google.com/policies/" target="_blank" x-track x-track-category="Footer" x-track-action="Click" x-track-label="Privacy & Terms">Privacy &amp; Terms</a></p>
+        <div class="pull-right footer-bottom-right">
+          <form class="pull-right language-select" x-ng-controller="languageSelectorCtrl">
+            <select class="select" x-ng-model="locale" x-ng-change="setLocale()" x-ng-options="lang.id as lang.name for lang in languages"></select>
+          </form>
+          <span class="icon icon-misc icon-world pull-right"></span>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    window.___gcfg = {
+      lang: 'en',
+      parsetags: 'explicit'
+    };
+    window.locale = 'en';
+  </script>
+  <script src="https://apis.google.com/js/plusone.js"></script>
+  <!-- Google Analytics -->
+  <script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-19766710-4']);
+    (function(){ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();
+  </script>
+
+    <script src="/projects/static/affa8b2d7a94b281a5d9c998fd28bb85/2015/js/lib.js"></script>
+  <script src="/projects/static/affa8b2d7a94b281a5d9c998fd28bb85/2015/js/gsf-project.min.js"></script>
+  
+</body>
+</html>

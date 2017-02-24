@@ -1,0 +1,285 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Indian Computing Olympiad - Current - IARCS</title>
+<meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" type="text/css" href="http://www.iarcs.org.in//layout.css" /><link rel="stylesheet" type="text/css" href="http://www.iarcs.org.in//presentation.css" /></head>
+<body>
+
+<div id="outer">
+<div id="hdr" align="left"><a
+href="http://www.iarcs.org.in/"title="Go to main page."><div class="logo"><img src="http://www.iarcs.org.in//icol.png" alt="" border="0" /></a></div> 
+</div>
+<div id="bar" align="center">
+<div id="menu">
+<ul>
+
+<li><a href="http://www.iarcs.org.in/" >HOME</a></li><li><a href="http://www.iarcs.org.in/activities" >ACTIVITIES</a></li><li id="one"><b><a href="http://www.iarcs.org.in/inoi">OLYMPIAD</a></b></li><li><a href="http://www.iarcs.org.in/members" >MEMBERS</a></li><li><a href="http://www.iarcs.org.in/about" >ABOUT</a></li>
+</ul>
+</div>
+</div>
+
+	
+<div id="bodyblock" align="left">
+<div id="r-col" >
+
+<ul>
+<br /><strong>Related:</strong><br /><li><a href="http://www.iarcs.org.in/inoi/index.php">Overview</a></li><li id="one"><a href="http://www.iarcs.org.in/inoi/current.php">Current</a><li/><li><a href="http://www.iarcs.org.in/inoi/online-study-material/index.php">Study Material</a></li><li><a href="http://www.iarcs.org.in/inoi/programming-contest.php">Online Judge</a></li><li><a href="http://www.iarcs.org.in/inoi/archives.php">Archives</a></li>
+</ul>
+<br />
+<br />
+
+<!--<a href="olympiad"><img src="mop.jpg" border="0"/></a>-->
+<br />
+</div>
+
+
+<div id="cont">
+<h3 align="left">Current information</h3>
+<h6 align="left">
+<a href="http://www.iarcs.org.in/">IARCS home</a> &gt <a href="http://www.iarcs.org.in/inoi">OLYMPIAD</a> &gt <a href="http://www.iarcs.org.in/inoi/current.php">Current</a>
+</h6>
+  
+
+<p id="inoi2017" style="font-weight: bold;">Indian National
+  Olympiad in Informatics, 2017 (INOI-2017)</a>
+
+<p> The Indian National Olympiad in Informatics, 2017 (INOI-2017)
+  took place on Sunday, 8&nbsp;January, 2017.  Of the 326
+  students who participated in INOI-2017,</p>
+
+<ul>
+
+<li> <a href="http://www.iarcs.org.in/inoi/2017/inoi2017/results_inoi2017.php#qualify">  27 students have qualified for the International Olympiad in
+  Informatics Training Camp, 2017 (IOITC-2017)</a> to select the
+  Indian team for the International Olympiad in Informatics, 2017
+  (IOI-2017), and <br><br>
+
+<li> <a href="http://www.iarcs.org.in/inoi/2017/inoi2017/results_inoi2017.php#zcoqualify">  64 students are deemed to have qualified through ZCO-2017</a>, based on their performance
+  in INOI-2017.
+
+</ul>
+
+<p id="zio2017" style="font-weight: bold;">Zonal Informatics
+  Olympiad, 2017 (ZIO-2017) and Zonal Computing Olympiad, 2017 (ZCO-2017)</a>
+
+<p> The Zonal Informatics Olympiad, 2017 (ZIO-2017) and Zonal
+    Computing Olympiad (ZCO-2017) were held at 34 cities across
+    India on Sunday, 20 November, 2016.  About 630 students
+    registered for ZIO-2017 and 520 students registered for
+    ZCO-2017.</a></p>
+
+<p> 
+   <a href="http://www.iarcs.org.in/inoi/2017/zio2017/results_zio2017.php">131 students have qualified through ZIO-2017 for
+   INOI-2017.</a>  The cutoff scores are available in the
+   ZIO-2017 solutions (see the link below).</p>
+
+
+<p> 
+   <a href="http://www.iarcs.org.in/inoi/2017/zco2017/qualified_zco2017.php">All 352 students who wrote ZCO-2017 will be permited to write
+   INOI-2017.</a>  Several students were hampered by technical problems during
+   ZCO-2017, and it was felt that the fairest solution was to
+   allow all candidates to participate in the second round.</p>
+
+
+<p>
+   <a href="http://www.iarcs.org.in/inoi/2017/index.php#qpaper">The question
+      paper and solution for ZIO-2017 are available online</a>.</p>
+
+<p>ZIO-2017 and ZCO-2017 were powered by <a href="https://www.tcsion.com"
+  target="_blank">TCS iON</a>, a division of Tata Consultancy
+  Services.</p>
+
+<p id="ioi2016" style="font-weight: bold;">International Olympiad in Informatics, 2016</a>
+
+<p> <a href="http://ioi2016.ru/">IOI-2016</a> was held at Kazan,
+Russia during August 12&ndash;19, 2016.  Rajat De and Srijon
+Mukherjee won silver medals while Malvika Raj Joshi and Sampriti
+Panda won bronze medals.</p>
+
+<p> The team that represented India at IOI-2016 was as
+follows:</p>
+
+<ul>
+
+<li> <strong>Rajat De</strong>, <em>Delhi Public School, Dwarka, New Delhi</em>
+
+<li> <strong>Malvika Raj Joshi</strong>, <em>Chashak Gurukul, Mumbai</em>
+
+<li> <strong>Srijon Mukherjee</strong>, <em>Amity International School, Noida</em>
+
+<li> <strong>Sampriti Panda</strong>, <em>SAI International
+    School, Bhubaneswar</em> 
+
+</ul>
+
+<div align=center>
+
+
+     <a href = "http://www.iarcs.org.in//inoi/2016/ioi2016/ioi2016_team_kazan_big.jpg">
+     <img src="http://www.iarcs.org.in//inoi/2016/ioi2016/ioi2016_team_kazan.jpg"
+     width="600px" alt="IOI 2016 Team Photo"></a>
+<br>
+<quote align=center>
+Sampriti, Rajat, Malvika, Srijon
+</quote>
+</div>
+
+<p> The Leader and Deputy Leader of the Indian contingent were
+Madhavan Mukund and Arjun Arul, both from Chennai Mathematical
+Institute, Chennai.</p>
+
+<p> The Indian team's travel to IOI-2016 was sponsored by <a
+href="http://www.sasken.com">Sasken Communication Technologies
+Ltd</a>.  </p>
+
+<p id="ioitc2016" style="font-weight: bold;">International
+Olympiad in Informatics Training Camp, 2016</a>
+
+<p>The Indian team for IOI is selected at the International
+Olympiad in Informatics Training Camp (IOITC).  IOITC-2016 was
+held over 10 days held in Bangalore during the period
+3&nbsp;May&ndash;12&nbsp;May, 2016.</p>
+
+<p>Faculty for IOITC-2016:</p>
+
+<ul>
+
+  <li> Karan Aggarwal, IIIT Hyderabad
+  <li> Arjun Arul, CMI
+  <li> Arjun P, IIIT Hyderabad
+  <li> R Goutham, CMI
+  <li> Tanuj Khattar, IIIT Hyderabad
+  <li> Lalit Kundu, IIIT Hyderabad
+  <li> Prashant Mahesh, SSN College, Chennai
+  <li> Madhavan Mukund, CMI
+  <li> K Narayan Kumar, CMI
+
+</ul>
+
+<div align=center>
+
+
+     <a href = "http://www.iarcs.org.in//inoi/2016/ioi2016/ioitc2016_coaches_big.jpg">
+     <img src="http://www.iarcs.org.in//inoi/2016/ioi2016/ioitc2016_coaches.jpg"
+     width="600px" alt="IOI 2016 Team Photo"></a>
+<br>
+<quote align=center>
+Karan, Goutham, Lalit, Arjun Arul, Tanuj, Prashant, Arjun P
+</quote>
+</div>
+
+
+<p>We thank <a
+href="http://www.sasken.com">Sasken Communication Technologies
+Ltd</a> for sponsoring the camp and <a
+href="http://www.tisb.org">The International School Bangalore</a>
+for making their congenial campus available to us for holding the
+camp.</p>
+
+<p id="inoi2016" style="font-weight: bold;">Indian National Olympiad in
+  Informatics, 2016 (INOI-2016)</a>
+
+<p> The Indian National Olympiad in Informatics, 2016 (INOI-2016)
+  took place on Sunday, 10&nbsp;January, 2016.  Of the 205
+  students who participated in INOI-2016,</p>
+
+<ul>
+
+<li> <a href="http://www.iarcs.org.in/inoi/2016/inoi2016/results_inoi2016.php#qualify">  27 students have qualified for the International Olympiad in
+  Informatics Training Camp, 2016 (IOITC-2016)</a> to select the
+  Indian team for the International Olympiad in Informatics, 2016
+  (IOI-2016), and <br><br>
+
+<li> <a href="http://www.iarcs.org.in/inoi/2016/inoi2016/results_inoi2016.php#honourable">  15 students have received an Honourable Mention</a> for their
+  performance in INOI-2016.
+
+</ul>
+
+<p id="zio2016" style="font-weight: bold;">Zonal Informatics
+  Olympiad, 2016 (ZIO-2016) and Zonal Computing Olympiad, 2016 (ZCO-2016)</a>
+
+<p> The Zonal Informatics Olympiad, 2016 (ZIO-2016) and Zonal
+    Computing Olympiad (ZCO-2016) were held at 34 cities across
+    India on Sunday, 15 November, 2015.  About 630 students
+    registered for ZIO-2016 and 220 students registered for
+    ZCO-2016.</a></p>
+
+<p> 
+   <a href="http://www.iarcs.org.in/inoi/2016/zio2016/results_zio2016.php">88 students have qualified through ZIO-2016 for
+   INOI-2016.</a>  The cutoff scores are available in the
+   ZIO-2016 solutions (see the link below).</p>
+
+
+<p> 
+   <a href="http://www.iarcs.org.in/inoi/2016/zco2016/qualified_zco2016.php">All 163 students who wrote ZCO-2016 will be permited to write
+   INOI-2016.</a>  Several students were hampered by technical problems during
+   ZCO-2016, and it was felt that the fairest solution was to
+   allow all candidates to participate in the secound round.</p>
+
+<p>
+   <a href="http://www.iarcs.org.in/inoi/2016/">Question
+      papers for ZIO-2016 and ZCO-2016 and solutions for
+   ZIO-2016 are available online</a>.</p>
+
+<p id="archives" style="font-weight: bold;">Question papers and other material
+from ...</p>
+
+<ul>
+
+<li><a href="http://www.iarcs.org.in/inoi/2017/">    Indian Computing Olympiad 2017</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2016/">    Indian Computing Olympiad 2016</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2015/">    Indian Computing Olympiad 2015</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2014/">    Indian Computing Olympiad 2014</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2013/">    Indian Computing Olympiad 2013</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2012/">    Indian Computing Olympiad 2012</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2011/">    Indian Computing Olympiad 2011</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2010/">    Indian Computing Olympiad 2010</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2009/">    Indian Computing Olympiad 2009</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2008/">    Indian Computing Olympiad 2008</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2007/">    Indian Computing Olympiad 2007</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2006/">    Indian Computing Olympiad 2006</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2005/">    Indian Computing Olympiad 2005</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2004/">    Indian Computing Olympiad 2004</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2003/">    Indian Computing Olympiad 2003</a>
+
+<li><a href="http://www.iarcs.org.in/inoi/2002/">    Indian Computing Olympiad 2002</a>
+
+</ul>
+
+<br />
+
+</div>
+
+</div>
+<div id="ftr" align="center">
+    <ul>
+    <li> <a href="http://www.iarcs.org.in/merchant.php#Products">Products</a>
+    <li> <a href="http://www.iarcs.org.in/merchant.php#Terms">Terms and Conditions</a>
+    <li> <a href="http://www.iarcs.org.in/merchant.php#Privacy">Privacy Policy</a>
+    <li> <a href="http://www.iarcs.org.in/merchant.php#Refunds">Refunds</a>
+    <li> <a href="http://www.iarcs.org.in/merchant.php#Contact">Contact Us</a>
+    </ul>
+    <br><br>
+    Copyright (c) IARCS 2003-2017; &nbsp; Last Updated: 23 Jan, 2017</div>
+</div>
+
+</body>
+</html>

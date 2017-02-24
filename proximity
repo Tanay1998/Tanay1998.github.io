@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+		<meta charset="UTF-8">
+		<meta name="description" content="Proximity App - Find your friends when you travel">
+		
+		<title>Proximity App</title>
+
+		<link rel="stylesheet" type="text/css" href="CSS/style.css" />
+
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,100,700,800' rel='stylesheet' type='text/css'>
+
+		<script type="text/javascript" src='JS/jquery.js'></script>
+		<script type="text/javascript" src='JS/script.js'></script>
+
+	</head>
+	<body>
+		<div id="overlay"></div>
+
+		<header>
+	
+			<nav>
+				<div class="menuItem activeMenuItem" id='mi1'>Home</div>
+				<div class="menuItem" id='mi2'>About</div>
+				<div class="menuItem" id='mi3'>Features</div>
+				<div class="menuItem" id='mi4'>Get Now</div>
+			</nav>
+	
+			<img id="logo" src='IMG/logo.png' />
+			
+			<a class="sepMenuItem" href='team.php'>Team</a>
+			<a class="sepMenuItem" id='priMI' href='privacy.php'>Privacy</a>
+
+		</header>
+
+		<div class="page" id='page1'>
+			<h1>
+				Proximity
+				<b>Find your friends when you travel</b>
+			</h1>				
+
+			<img  src='IMG/app2.png' id="apps" />
+			<div class="btn" id='exp'>Learn More</div>
+			<a href="https://www.dropbox.com/sh/2s0d0slknu4alh7/AAC2XFj9q2cTqEKia7KuJ8IPa?dl=0" target="_blank">
+				<div class="btn" id='exp2'>Press Kit</div>
+			</a>
+
+		</div>
+
+		<div class="page" id='page2'>
+			<img class="page2Side" src="IMG/finalSnaps/feedsnap.png" /><div id="page2Txt">
+				<h2 id="page2Head">Proximity connects you<br />when you travel</h2>
+				<p id="page2MainTxt">
+				
+					Proximity lets you easily ping your friends when you travel to their city – whether you knew they were there or not!
+					You can also find friends-of-friends when you visit new cities. You can choose to share your travel plans seamlessly 
+					through social media allowing friends across the world to find you!
+					<br /><br />
+					Know someone on the ground and travel like a local:
+					No more “missed interactions” when you’re globetrotting.
+					<br /><br />
+					<ul>
+					
+						<li>Proximity pings friends when you when you arrive in their city.</li>
+						
+						<li>Proximity shows you which friends you have in common in the city you’re travelling to.</li>
+						<li>Easily catch up with old friends or colleagues.</li>
+						<li>Seamlessly share your trips through Email, Facebook and Twitter</li>
+					</ul>
+				</p>
+			</div>
+		</div>
+
+		<div class="page" id='page3'>
+			<h2 class="pageHead">The features you need.<br />Right When you need them.</h2>
+
+			<div class="feature">
+				<img class="feaPic" src='IMG/finalSnaps/dissnap.png' />
+				<div class="feaCont">
+					<h3 class="feaHead">Discover</h3>
+					<p class="feaTxt">
+						See which city your friends are in.	 
+					</p>
+				</div>
+			</div>
+
+			<div class="feature">
+				<img class="feaPic" src='IMG/finalSnaps/infosnap.png' />
+				<div class="feaCont">
+					<h3 class="feaHead">Inform</h3>
+					<p class="feaTxt">
+					Notify friends when you visit their city.
+					</p>
+				</div>
+			</div>
+
+				<br />
+
+			<div class="feature">
+				<img class="feaPic" src='IMG/finalSnaps/connectsnap.png' />
+				<div class="feaCont">
+					<h3 class="feaHead">Connect</h3>
+					<p class="feaTxt">
+						Find friends-of-friends to show you around new cities. 	
+					</p>
+				</div>
+			</div>
+
+
+			<div class="feature">
+				<img class="feaPic" src='IMG/finalSnaps/sharesnap.png' />
+				<div class="feaCont">
+					<h3 class="feaHead">Share</h3>
+					<p class="feaTxt">
+						Seamlessly and securely connect to your existing social networks.
+					</p>
+				</div>
+			</div>
+
+		</div>
+
+		<div class="page" id='page4'>
+			<h2 class="pageHead" id='head5'>What are you waiting for?<br />Share your email to stay connected!</h2>
+			<form method="post" action="#">
+				<input type='email' id='mail' required placeholder='EMAIL ADDRESS'>
+				<input type='submit' class='btn' id='sub' value='SUBSCRIBE '>
+			</form>
+		</div>
+
+	</body>
+</html>

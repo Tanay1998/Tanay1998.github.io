@@ -1,0 +1,402 @@
+		
+							<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ta" xml:lang="ta">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+<title>The First Mail | Four Indians Win Medal At International Informatics Olympiad</title>
+<meta name="keywords" content="Four Indians win medal at International Informatics Olympiad" />
+<meta name="description" content="four+indians+win+medal+at+international+informatics+olympiad" />
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600' rel='stylesheet' type='text/css'>
+<link href="http://thefirstmail.in/css/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="http://thefirstmail.in/css/style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://thefirstmail.in/css/jqueryslidemenu.css" />
+<link rel="stylesheet" type="text/css" href="http://thefirstmail.in/css/footerpopup.css" />
+<link rel="stylesheet" type="text/css" href="http://thefirstmail.in/css/ticker-style.css" />
+<link rel="stylesheet" type="text/css" href="http://thefirstmail.in/css/jquery-ui.css" />
+
+
+<script type="text/javascript" src="http://thefirstmail.in/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="http://thefirstmail.in/js/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="http://thefirstmail.in/js/jquery.totemticker.js"></script>
+<script type="text/javascript" src="http://thefirstmail.in/js/jquery_002.js"></script>
+<script type="text/javascript" src="http://thefirstmail.in/js/jquery-ui.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$('#vertical-ticker').totemticker({
+				row_height	:	'40px',
+				next		:	'#ticker-next',
+				previous	:	'#ticker-previous',
+				stop		:	'#stop',
+				start		:	'#start',
+				mousestop	:	true,
+			});
+			
+			$('#vertical-ticker2').totemticker({
+				row_height	:	'40px',
+				next		:	'#ticker-next',
+				previous	:	'#ticker-previous',
+				stop		:	'#stop',
+				start		:	'#start',
+				mousestop	:	true,
+			});
+		});
+	</script>
+<script type="text/javascript" src="http://thefirstmail.in/js/script.js"></script>
+<!--******************for news scroll***********************-->
+		 <script type="text/javascript">
+			$(function () {
+				$('#js-news').ticker();
+			});
+		</script>
+<!--******************for datepicker***********************/-->
+ <script>
+  $(function() {
+    //$( "#datepicker" ).datepicker();
+	$('#datepicker').datepicker({ dateFormat: "yy-mm-dd", onSelect: function(dateStr) {
+      //alert('You chose ' + dateStr);
+	  //window.location = 'index.php/date='+dateStr;
+	  //window.location = 'http://thefirstmail.in/news/76931-four_indians_win_medal_at_international_informatics_olympiad/search/date='+dateStr;
+	  window.location = 'http://thefirstmail.in/news/search/date='+dateStr;
+}});
+
+  });
+  </script>
+  
+  
+  <script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "2d93fcdb-650e-4509-8ad1-7c162126db15", doNotHash: false, doNotCopy: false, hashAddressBar: true});</script>
+
+	 <script type="text/javascript">
+
+	function DisplayTime(){
+	if (!document.all && !document.getElementById)
+	return
+	timeElement=document.getElementById? document.getElementById("curTime"): document.all.tick2
+	var CurrentDate=new Date()
+	var hours=CurrentDate.getHours()
+	var minutes=CurrentDate.getMinutes()
+	var seconds=CurrentDate.getSeconds()
+	var DayNight=""
+	if (hours<12) DayNight="";
+	if (hours>12) hours=hours-12;
+	if (hours==0) hours=12;
+	if (minutes<=9) minutes="0"+minutes;
+	if (seconds<=9) seconds="0"+seconds;
+	var currentTime=hours+":"+minutes+":"+seconds+" "+DayNight;
+	timeElement.innerHTML=""+currentTime+"</b>"
+	setTimeout("DisplayTime()",1000)
+	}
+	window.onload=DisplayTime
+</script>
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"7Zsph1a0k700yV", domain:"thefirstmail.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=7Zsph1a0k700yV" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+</head>
+
+<body>
+<div id="main-container">
+<div id="main">
+<div id="header">
+        <div class="topnavigation">
+        <div class="topnav">
+        		<ul>
+		
+				<li>
+		<!--<a  href="http://thefirstmail.in/">HOME</a>-->
+        
+        <a  class="current"   href="http://thefirstmail.in/" >HOME</a>
+        
+        <!--<a   href="http://thefirstmail.in/" >HOME</a> -->
+		</li>
+				<li>
+		<!--<a  href="http://thefirstmail.in/news/business">BUSINESS</a>-->
+        
+        <a   href="http://thefirstmail.in/news/business" >BUSINESS</a>
+        
+        <!--<a   href="http://thefirstmail.in/news/business" >BUSINESS</a> -->
+		</li>
+				 </ul>
+		         <div id="topmenu">
+                <div id="footermenu">
+		<ul>
+				 </ul>
+         </div>
+		         </div>
+            <div id="login_area">
+            
+                        		<div class="signuptab">
+            		<a href="http://thefirstmail.in/login" style="color:#FFFFFF">Login</a></div>
+                     <div class="signuptab">
+                     <a href="http://thefirstmail.in/registration" style="color:#FFFFFF">Signup</a></div>
+                        
+           
+            </div>
+        </div>
+        <div class="social_icons">
+       <p><a href="https://twitter.com/thefirstmail" target="_blank"><img src="http://thefirstmail.in/images/Image/twitter.PNG" alt="" width="16" height="16" /></a><a href="https://www.facebook.com/profile.php?id=100009546054570" target="_blank"><img src="http://thefirstmail.in/images/Image/fb_1.png" alt="" width="16" height="16" /></a><a href="https://www.linkedin.com/pulse/activities/thefirstmail-happening+0_2x6exijWGBuLmDVjdTNX0N?trk=nav_responsive_sub_nav_yourupdates" target="_blank"><img src="http://thefirstmail.in/images/Image/in.png" alt="" width="16" height="16" /></a><a href="https://plus.google.com/u/0/" target="_blank"><img src="http://thefirstmail.in/UserFiles/Image//images/google plus.png" alt="" width="16" height="16" /></a><a href="http://thefirstmail.blogspot.in/" target="_blank"><img src="http://thefirstmail.in/UserFiles/Image//blogspot.jpg" alt="" width="16" height="16" /></a></p> 
+   
+        </div>
+        </div>
+       
+        <div class="logosection"><div class="logo">
+        		 <a href="http://thefirstmail.in/"><img align="middle" src="http://thefirstmail.in/images/logo1.png" style="border:none;"/></a>
+        </div>
+       
+        		<div class="headerimg headerimg2" id="">
+        		</div>
+		        </div>
+        <div class="main_navigation">
+        <div class="navpart">
+        <div id="myslidemenu" class="jqueryslidemenu">
+                 
+		<ul>
+		
+				<li >
+		<a href="http://thefirstmail.in/news/home/2-news">News</a>
+       		</li>
+				<li >
+		<a href="http://thefirstmail.in/news/home/20-politics">Politics</a>
+       		</li>
+				<li >
+		<a href="http://thefirstmail.in/news/home/38-poll">Poll</a>
+       		</li>
+				<li >
+		<a href="http://thefirstmail.in/news/home/3-home_legal">Legal</a>
+       		</li>
+				<li >
+		<a href="http://thefirstmail.in/news/home/31-metro_">Metro</a>
+       		</li>
+				<li >
+		<a href="http://thefirstmail.in/news/home/19-crime">Crime</a>
+       		</li>
+				<li >
+		<a href="http://thefirstmail.in/news/home/8-entertainment">Entertainment</a>
+       		</li>
+				<li >
+		<a href="http://thefirstmail.in/news/home/9-world">World</a>
+       		</li>
+				<li  class="active">
+		<a href="http://thefirstmail.in/news/home/10-sports">Sports</a>
+       		</li>
+				<li >
+		<a href="http://thefirstmail.in/news/home/30-survey_">Survey</a>
+       		</li>
+				 </ul>
+        
+		  
+        </div>
+        </div>
+        <div class="searcharea">
+        <div class="inputbg">
+        <form name="searchform" id="searchform" method="post" enctype="multipart/form-data" action="http://thefirstmail.in/pages/news_list.php" >
+        <input type="text" name="search" value="" placeholder="Search" id="search" class="inputbg_input" />
+        <input type="submit" value="search" name="submit"  class="searchbtn" />
+        </form>
+        </div></div>
+        </div>
+        <div class="header_news">
+                     <div id="ticker-wrapper" class="has-js left">
+                          <ul id="js-news" class="js-hidden">
+               
+                    
+                <li class="news-item">
+                                <a href="http://thefirstmail.in/news/news-details/157319-modis_voice_feebler_than_that_of_mouse_rahul" target="_self">
+                        <span id="ContainerPlaceHolder_ContentPlaceHolderMedium_ContentPlaceHolderMedium_lvNews_lblNews_0">Modi's voice feebler than that of mouse: Rahul</span></a>
+                                            </li>
+    
+			       
+                <li class="news-item">
+                                <a href="http://thefirstmail.in/news/news-details/157280-iip_to_stay_muted_in_january_will_grow_by_0-05_db" target="_self">
+                        <span id="ContainerPlaceHolder_ContentPlaceHolderMedium_ContentPlaceHolderMedium_lvNews_lblNews_0">IIP to stay muted in January; will grow by 0-0.5%: D&B</span></a>
+                                            </li>
+    
+			       
+                <li class="news-item">
+                                <a href="http://thefirstmail.in/news/news-details/157271-bullet_for_bullet_pak_policy_will_worsen_j-k_situation_farooq_" target="_self">
+                        <span id="ContainerPlaceHolder_ContentPlaceHolderMedium_ContentPlaceHolderMedium_lvNews_lblNews_0">'Bullet for bullet' Pak policy will worsen J-K situation: Farooq</span></a>
+                                            </li>
+    
+			       
+                <li class="news-item">
+                                <a href="http://thefirstmail.in/news/news-details/157255-bsp_trying_to_check_sp_with_bjps_help_akhilesh" target="_self">
+                        <span id="ContainerPlaceHolder_ContentPlaceHolderMedium_ContentPlaceHolderMedium_lvNews_lblNews_0">BSP trying to check SP with BJP's help: Akhilesh</span></a>
+                                            </li>
+    
+			       
+                <li class="news-item">
+                                <a href="http://thefirstmail.in/news/news-details/157245-india_likely_to_be_less_affected_by_global_economic_shocksimf" target="_self">
+                        <span id="ContainerPlaceHolder_ContentPlaceHolderMedium_ContentPlaceHolderMedium_lvNews_lblNews_0">India likely to be less affected by global economic shocks:IMF</span></a>
+                                            </li>
+    
+			              </ul>
+                             
+        </div>
+        
+		       
+       <div class="datetime"> 24 Feb, 2017 <span id="curTime"></span> IST</div>
+     
+        </div>
+        </div>
+<!-- ~~~ -->
+
+<!-- ~~~ -->
+	
+<div id="middle">
+ 
+<div id="news_description">
+<div class="single_breadcurm" >You are here : <a class="bread_crumbs_home" href="http://thefirstmail.in/">Home</a> <span style="font-size: 12px;">&raquo;</span>							<!--<a href="http://thefirstmail.in/news/home"  class="news_breadcrum" >Home</a> &raquo;-->
+							                            <!--<a href="http://thefirstmail.in/news/home/home"  class="news_breadcrum" >Home</a> &raquo;-->
+                                                        <a href="http://thefirstmail.in/news/home/sports"  class="news_breadcrum" >Sports</a>
+                             </div>
+        		<div class="discription_txt">
+                 <!--<div class="date">--><strong>Posted On : </strong> 7 Aug, 2015&nbsp;<!--</div>-->
+                 
+                 
+						<strong>Source : </strong>PTI&nbsp;
+				                
+               
+                                	    <strong>Place : </strong>New Delhi&nbsp;
+                                
+                
+                </div>
+        		<div style="clear:both;"></div>
+                <div class="description_heading">Four Indians win medal at International Informatics Olympiad</div>
+                                <div class="discription_img">
+                               
+                Four Indian students have clinched medals at the International Olympiad in Informatics, one of the most coveted programming competitions, held in Kazakhstan this year.<br /><br />The International Olympiad in Informatics is one of the five international science Olympiads organised across the globe and has UNESCO and International Federation for Information Processing (IFIP) as its patrons.<br /><br />According to the 2015 medal tally, Malvika Raj Joshi from Chashak Gurukul, Mumbai has bagged a silver medal while three others have clinched bronze in the contest which concluded last week.<br /><br />The bronze winners include Arjun Pitchanathan from Chennai Public School, Chennai, Kushagra Juneja of Apeejay School, Pitampura and Tanay Kothari of Delhi Public School, R K Puram.<br /><br />The four-member Indian contingent was trained by the Chennai Mathematical Institute at the IOI Training Camp conducted by Indian Association for Research in Computing Science, Bangalore.<br /><br />The young programming wizards from India competed with 322 school students from 84 countries.<br /><br />Last year India had bagged a Gold and Bronze medal at the Olympiads held in Taiwan.                </div>
+                <div class="discription_txt2">
+                                 
+                                
+                </div>
+                <div class="social" style="clear:both;">
+                <span class='st_sharethis' displayText='ShareThis'></span>
+                <span class='st_facebook' displayText='Facebook'></span>
+                <span class='st_twitter' displayText='Tweet'></span>
+                <span class='st_linkedin' displayText='LinkedIn'></span>
+                <span class='st_googleplus' displayText='Google +'></span>
+                <span class='st_email' displayText='Email'></span>
+                </div> 
+                             
+				
+<div class="inner_leftpart">
+
+        <div class="related_news">
+        <div class="newsheading">HEAD LINES</div>
+        <div class="downarrow"></div>
+        <div id="wrapper">
+		<ul id="vertical-ticker" style="clear:both; height:92px">
+        			<li><a href="http://thefirstmail.in/news/news-details/157319-modis_voice_feebler_than_that_of_mouse_rahul">Modi's voice feebler than that of mouse: Rahul</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/157271-bullet_for_bullet_pak_policy_will_worsen_j-k_situation_farooq_">'Bullet for bullet' Pak policy will worsen J-K situation: Farooq</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/157255-bsp_trying_to_check_sp_with_bjps_help_akhilesh">BSP trying to check SP with BJP's help: Akhilesh</a></li>
+			            </ul></div></div>
+                    <div class="recommended_news">
+        <div class="newsheading">TOP NEWS </div>
+        <div class="downarrow"></div>
+        <div id="wrapper">
+		<ul id="vertical-ticker2" style="clear:both; height:85px;">
+        			<li><a href="http://thefirstmail.in/news/news-details/157336-kumble_defends_team_says_it_was_just_one_bad_day_in_office">Kumble defends team, says it was just one bad day in office</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/157294-zulpikar_maimaitiali_refuses_to_fight_vijender">Zulpikar Maimaitiali refuses to fight Vijender</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/157286-after_success_pooja_credits_mentor_narang">After success, Pooja credits mentor Narang</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/157247-medal_for_india_on_day_1_of_shooting_wc_as_ghatkar_wins_bronze">Medal for India on day 1 of shooting WC as Ghatkar wins bronze</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/157238-okeefe_spins_out_india_for_paltry_score_with_six-wicket_haul">O'Keefe spins out India for paltry score with six-wicket haul</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/157200-sc_rejects_hps_plea_on_quashing_of_case_against_anurag_thakur">SC rejects HP's plea on quashing of case against Anurag Thakur</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/157190-ddca_court_rejects_azads_discharge_plea_in_defamation_case">DDCA: Court rejects Azad's discharge plea in defamation case</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/157077-new-look_indian_shooting_team_seeks_change_in_fortunes">New-look Indian shooting team seeks change in fortunes</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/157058-umesh_shines_but_defiant_starc_takes_australia_to_2569">Umesh shines but defiant Starc takes Australia to 256/9</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156942-mithali_harmanpreet_in_top-10_of_icc_rankings">Mithali, Harmanpreet in top-10 of ICC rankings</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156909-kumble_has_channelled_my_aggression_to_some_extent_kohli">Kumble has channelled my aggression to some extent: Kohli</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156900-its_not_right_time_to_pass_judgment_on_my_captaincy_kohli">It''s not right time to pass judgment on my captaincy: Kohli</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156895-smith_rejects_bhajjis_taunt_says_can_compete_against_india">Smith rejects Bhajji's taunt, says can compete against India</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156878-buoyant_india_take_on_aggressive_australia_in_series_opener">Buoyant India take on aggressive Australia in series opener</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156850-virat_thrives_on_responsibility_harbhajan_singh">Virat thrives on responsibility: Harbhajan Singh</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156797-indian_eves_win_icc_world_cup_qualifier_finals">Indian eves win ICC World Cup Qualifier finals</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156769-india_gets_2019_combined_world_cup_for_shooting">India gets 2019 Combined World Cup for shooting</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156765-we_would_treat_australia_like_any_other_team_kumble">We would treat Australia like any other team: Kumble</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156713-stage_set_for_fih_annual_awards_ceremony">Stage set for FIH annual awards ceremony</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156705-toss_will_have_no_bearing_in_india_says_lehmann">Toss will have no bearing in India, says Lehmann</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156667-azhar_slams_rising_pune_supergiants_for_dhoni_sacking">Azhar slams Rising Pune Supergiants for Dhoni sacking</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156643-pcb_decides_to_host_psl_final_in_lahore">PCB decides to host PSL final in Lahore</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156604-india_sa_gear_up_for_final_of_icc_womens_wc_qualifier">India, SA gear up for final of ICC Women's WC qualifier</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156552-state_cricket_bodies_moves_sc_seeking_clarification_on_status">State cricket bodies moves SC seeking clarification on status</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156509-big_ben_stands_tall_at_ipl_auctions_indians_hit_pay_dirt">'Big Ben' stands tall at IPL auctions; Indians hit pay dirt</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156504-former_mohun_bagan_goalie_shibaji_banerjee_passes_away">Former Mohun Bagan goalie Shibaji Banerjee passes away</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156502-afridi_announces_international_retirement">Afridi announces international retirement</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156475-not_going_to_sledge_kohli_hints_warner">Not going to sledge Kohli, hints Warner</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156460-coa_bars_top_bcci_officials_from_ipl_players_auction">CoA bars top BCCI officials from IPL players' auction</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156459-india_beat_pak_to_make_final_of_womens_world_cup_qualifier">India beat Pak to make final of Women's World Cup Qualifier</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156445-i_was_not_unwell_coach_told_me_not_to_take_part_khushbir">I was not unwell, coach told me not to take part: Khushbir</a></li>
+						<li><a href="http://thefirstmail.in/news/news-details/156415-dhoni_removed_as_pune_captain_smith_to_take_over">Dhoni removed as Pune captain, Smith to take over</a></li>
+			            </ul></div></div>
+            
+</div>
+
+<div id="comment_post">
+ <div class="comment">Comments</div>
+                   
+        <div class="signup"><a href="http://thefirstmail.in/login">Please signup or login to comment on current news</a></div>
+        
+        </div>
+
+</div>
+<div id="innerright2">
+		<div class="headerimg headerimg2" id="innerright">
+        		</div>
+		<!--<img src="http://thefirstmail.in/images/rightad2.jpg" border="0" />-->
+
+<div class="topnews"><!--<a href="#">Top News</a>-->
+       
+        <div id="wrapper">
+		<ul id="vertical-ticker2" style="clear:both; ">
+        			<li><a href="http://thefirstmail.in/news/news-details/157294-zulpikar_maimaitiali_refuses_to_fight_vijender">Zulpikar Maimaitiali refuses to fight Vijender</a></li>
+			            </ul></div>
+            </div>
+</div>
+
+</div>
+<!--<div class="google_adds">
+</div>-->
+<div class="footer_top_line"></div>
+<div id="footer">
+        <div class="copyright_txt">
+        <p align="left" style="width:240px; float:left; margin-left:20px;">&copy; 2017 | All Rights reserved | The First Mail</p>
+        <!--<div class="footer_nav">-->
+        <div class="footernav">
+                
+		<ul>
+		
+				<li>
+		<a href="http://thefirstmail.in/category">Category</a>
+		</li>
+				<li>
+		<a href="http://thefirstmail.in/privacy_policy">Privacy Policy</a>
+		</li>
+				<li>
+		<a href="http://thefirstmail.in/disclaimer">Disclaimer</a>
+		</li>
+				<li>
+		<a href="http://thefirstmail.in/terms_of_use">Terms Of Use</a>
+		</li>
+				<li>
+		<a href="http://thefirstmail.in/contact_us">CONTACT US</a>
+		</li>
+				 </ul>
+		         </div>
+      <!--  </div>-->
+      <div class="calender"><input type="text" size="7" name="datepicker" id="datepicker" value="CALENDAR" class="calender_input" ></div>
+        <p class="powered">Powered by : <a href="http://www.gigasoft.in" target="_blank">Gigasoft&trade;</a></p>
+        </div>
+       
+    
+	
+</div>
+</div>
+</div>
+</body>
+</html>
+
