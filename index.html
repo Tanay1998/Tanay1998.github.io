@@ -1,74 +1,535 @@
-<html>
-<head>
-	<title>Tanay Kothari</title>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<meta name="alexaVerifyID" content="qP-jgbf8pjE3lfQDuJ9OqYznXfM"/>
-</head>
-<body>
-	<div class="header">
-		<center>
-			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="apps.html">Projects</a></li>
-				<li><a href="art.html">Digital Art</a></li>
-				<li><a href="about.html">About Me</a></li>
-			</ul>
-		</center>
-	</div>
-	<div class="home">
-		<div class="tanay">
-			<div class="image">
-				<img src="tanay.png">
-			</div>
-			<div class="name">
-				<p>Tanay Kothari</p>
-			</div>
-			<div class="inf">
-				&nbsp;<span class="fa fa-trophy fa-2x"></span>
-				&nbsp;&nbsp;&nbsp;&nbsp;Bronze Medalist, IOI '15<br />
-				<span class="fa fa-graduation-cap fa-2x"></span>
-				&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science, Stanford University<br />
-				&nbsp;<span class="fa fa-users fa-2x"></span>
-				&nbsp;&nbsp;&nbsp;&nbsp;Co-founder &amp; Head Technology, Proximity<br />
-				&nbsp;<span class="fa fa-envelope fa-2x"></span>
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tkothari@stanford [dot] edu<br />
-			</div>
-			<div class="social">
-				<a href="https://www.facebook.com/insimpulse" target="_blank" class="socialicon">
-					<img src="social/facebook.png" width="50px" height="50px" />
-				</a>
-				<a href="mailto:tanaykothari1998@gmail.com" target="_blank" class="socialicon">
-					<img src="social/mail.png" width="50px" height="50px" />
-				</a>
-				<a href="https://in.linkedin.com/in/tanay-kothari-51494886" target="_blank" class="socialicon">
-					<img src="social/linkedin.png" width="50px" height="50px" />
-				</a>
-				<a href="https://www.quora.com/profile/Tanay-Kothari-1" target="_blank" class="socialicon">
-					<img src="social/quora.png" width="50px" height="50px" />
-				</a>
-				<a href="https://play.google.com/store/apps/developer?id=Simpulse+Inc" target="_blank" class="socialicon">
-					<img src="social/play_store.png" width="50px" height="50px" />
-				</a>
-				<a href="https://itunes.apple.com/app/id1028803870" target="_blank" class="socialicon">
-					<img src="social/ios_store.png" width="50px" height="50px" />
-				</a>
+<!DOCTYPE html>
+<html lang="zxx">
 
-			</div>
-		</div>
-		<div class="bottom"><span class="fa fa-chevron-down" style='font-size:18pt;'></span></div>
-		<div class="desc">
-			<p>
-				I am a thinker, learner, creator; an artist, programmer, developer, and entrepreneur with an ambitious streak. 
-			</p>
-			<br />
-			<p> 
-				Life is too short to spend time taking the easy way out. I constantly look for problems around me to tackle them to leave the world in a better state than I found it in. The adrenaline rush drives me to work relentlessly through sleepless nights for hours on end. And I love every moment of it. My passion lies in software engineering, machine learning, and product design. I am currently working on Natural Language Processing and Computer Vision with Generative Adversarial Networks. 
-			</p>
-			<br />
-			<p>
-				I enjoy working collaboratively, so if you have an interesting idea you want to talk about, hit me up! 
-			</p>
-	</div>
-</body>	
+<head>
+  <meta charset="utf-8">
+  <title>Tanay Kothari</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <!-- ** Plugins Needed for the Project ** -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="plugins/slick/slick.css">
+  <!-- themefy-icon -->
+  <link rel="stylesheet" href="plugins/themify-icons/themify-icons.css">
+  <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+
+  <!-- Main Stylesheet -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+</head>
+
+<body>
+
+<!-- hero area -->
+<section class="hero-area bg-primary" id="parallax">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <h1 class="text-white font-tertiary">Hi, I’m <br> Tanay Kothari</h1>
+      </div>
+      <div class="col-md-4 text-center drag-lg-top">
+        <div class="shadow-down mb-4">
+          <img src="images/tanay.png" alt="author" class="img-fluid w-100 rounded-lg border-thick border-white">
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <div class="layer-bg w-100">
+    <img class="img-fluid w-100" src="images/illustrations/leaf-bg.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l2">
+    <img src="images/illustrations/dots-cyan.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l3">
+    <img src="images/illustrations/leaf-orange.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l4">
+    <img src="images/illustrations/dots-orange.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l5">
+    <img src="images/illustrations/leaf-yellow.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l6">
+    <img src="images/illustrations/leaf-cyan.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l7">
+    <img src="images/illustrations/dots-group-orange.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l8">
+    <img src="images/illustrations/leaf-pink-round.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l9">
+    <img src="images/illustrations/leaf-cyan-2.png" alt="bg-shape">
+  </div>
+  <!-- social icon -->
+  <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
+    <li class="mb-3"><a class="text-white" href="https://www.linkedin.com/in/tankots/"><i class="ti-linkedin"></i></a></li>
+    <li class="mb-3"><a class="text-white" href="https://www.instagram.com/tankots42/"><i class="ti-instagram"></i></a></li>
+    <li class="mb-3"><a class="text-white" href="http://github.com/Tanay1998/"><i class="ti-github"></i></a></li>
+    <li class="mb-3"><a class="text-white" href="https://twitter.com/tankots"><i class="ti-twitter"></i></a></li>
+  </ul>
+  <!-- /social icon -->
+</section>
+<!-- /hero area -->
+
+<!-- about -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        <p class="font-secondary paragraph-lg text-dark">I am a thinker, learner, creator, an artist, programmer and developer.<br> Also an entrepreneur with an ambitious streak.
+
+<p>Life is too short to spend time taking the easy way out. I constantly look for problems around me to tackle them to leave the world in a better state than I found it in. The adrenaline rush drives me to work relentlessly through sleepless nights for hours on end. And I love every moment of it. My passion lies in software engineering, machine learning, and product design. I am currently working on Natural Language Processing and Computer Vision with Generative Adversarial Networks.</p>
+        <a href="https://drive.google.com/file/d/170yGRdqfVOENkwQ7lSTA0wvZtd0jOldF/view?usp=sharing" class="btn btn-transparent">Download Resume</a>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /about -->
+
+<!-- skills -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title">Skills</h2>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+        <div class="card shadow text-center">
+          <div class="position-relative rounded-top progress-wrapper" data-color="#fdb157">
+            <div class="wave" data-progress="90%"></div>
+          </div>
+          <div class="card-footer bg-white">
+            <h4 class="card-title">Machine Learning</h4>
+            <p>5+ years
+Computer Vision • Chatbots • Natural
+Language Processing • Inference</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+        <div class="card shadow text-center">
+          <div class="position-relative rounded-top progress-wrapper" data-color="#9473e6">
+            <div class="wave" data-progress="60%"></div>
+          </div>
+          <div class="card-footer bg-white">
+            <h4 class="card-title">Software Dev</h4>
+              <p>5+ years
+Computer Vision • Chatbots • Natural
+Language Processing • Inference</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+        <div class="card shadow text-center">
+          <div class="position-relative rounded-top progress-wrapper" data-color="#bdecf6">
+            <div class="wave" data-progress="80%"></div>
+          </div>
+          <div class="card-footer bg-white">
+            <h4 class="card-title">Programming</h4>
+            <p>5+ years
+C++ • Python • Java • Swift • JS
+2+ years
+C • C# • OCaml • Ruby • Web Dev</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+        <div class="card shadow text-center">
+          <div class="position-relative rounded-top progress-wrapper" data-color="#ffbcaa">
+            <div class="wave" data-progress="70%"></div>
+          </div>
+          <div class="card-footer bg-white">
+            <h4 class="card-title">Miscellaneous</h4>
+            <p>20+ years
+Singing @ Stanford Raagapella • Hiking
+• Adventure Sports • Dance •
+Guitar • Music </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /skills -->
+
+<!-- experience -->
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-around">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title">Experience</h2>
+      </div>
+      <div class="col-lg-3 col-md-4 text-center">
+
+        <p class="mb-0">Jul 2018 - Sep 2018 | Redmond, WA</p>
+        <h4>Program Manager</h4>
+        <h6 class="text-light">Microsoft</h6>
+      </div>
+      <div class="col-lg-3 col-md-4 text-center">
+
+        <p class="mb-0">May 2018 – Dec 2018 | Palo Alto, CA</p>
+        <h4>Deep Learning Engineer</h4>
+        <h6 class="text-light">Spect Inc.</h6>
+      </div>
+      <div class="col-lg-3 col-md-4 text-center">
+
+        <p class="mb-0">Jul 2017 – Sep 2017 | Palo Alto, CA</p>
+        <h4>Full Stack Engineer</h4>
+        <h6 class="text-light">Rep.AI</h6>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- ./experience -->
+
+<!-- education -->
+<section class="section position-relative">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title">Education</h2>
+      </div>
+      <div class="col-lg-6 col-md-6 mb-80">
+        <div class="d-flex">
+          <div class="mr-lg-5 mr-3">
+            <img src="images/experience/icon-1.png" alt="icon">
+          </div>
+          <div>
+            <p class="text-dark mb-1">2016 - 2020</p>
+            <h4>BS, MS in Computer Science</h4>
+            <p class="mb-0 text-light">Stanford University</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 col-md-6 mb-80">
+        <div class="d-flex">
+          <div class="mr-lg-5 mr-3">
+            <img src="images/experience/icon-2.png" alt="icon">
+          </div>
+          <div>
+            <p class="text-dark mb-1">Grad. May 2016 | Delhi, India</p>
+            <h4>Rank 2/987 | Headboy</h4>
+            <p class="mb-0 text-light">DPS RK Puram Delhi</p>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+  <!-- bg image -->
+  <img class="img-fluid edu-bg-image w-100" src="images/backgrounds/education-bg.png" alt="bg-image">
+</section>
+<!-- /education -->
+
+<!-- services -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Awards</h2>
+      </div>
+      <div class="col-md-4 mb-4 mb-md-0">
+        <div class="card hover-shadow shadow">
+          <div class="card-body text-center px-4 py-5">
+
+            <h4 class="mb-4">2018</h4>
+            <p>Winner | ETH Denver, biggest Ethereum conference<br>Finalist |
+              Representing Stanford at ACM ICPC Regionals</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 mb-4 mb-md-0">
+        <div class="card active-bg-primary hover-shadow shadow">
+          <div class="card-body text-center px-4 py-5">
+
+            <h4 class="mb-4">2016</h4>
+            <p>8 Gold Medals<br>
+            Honors for academic & extra-curricular achievements</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 mb-4 mb-md-0">
+        <div class="card hover-shadow shadow">
+          <div class="card-body text-center px-4 py-5">
+
+            <h4 class="mb-4">2015</h4>
+            <p>Bronze Medal| IOI, International Olympiad in Informatics Rank 1 in India<br>
+              2nd in India | Represented India at IOL, International Linguistics Olympiad<br>
+Silver Medal | Asia-Pacific Informatics Olympiad <br>National Indian National Mathematics Olympiad (INMO)</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /services -->
+
+<!-- portfolio -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Art</h2>
+      </div>
+    </div>
+    <div class="row shuffle-wrapper">
+      <div class="col-lg-4 col-6 mb-4 shuffle-item">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-1.png" alt="portfolio-image" class="img-fluid rounded w-100">
+          <div class="hover-overlay">
+
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-2.jpg" alt="portfolio-image" class="img-fluid rounded w-100">
+
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-3.jpg" alt="portfolio-image" class="img-fluid rounded w-100">
+
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-6.jpg" alt="portfolio-image" class="img-fluid rounded w-100">
+
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-4.jpg" alt="portfolio-image" class="img-fluid rounded w-100">
+
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-5.jpg" alt="portfolio-image" class="img-fluid rounded w-100">
+
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="images/portfolio/item-7.jpg" alt="portfolio-image" class="img-fluid rounded w-100">
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- /portfolio -->
+
+<!-- testimonial -->
+<section class="section bg-primary position-relative testimonial-bg-shapes">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title text-white mb-5">Testimonials</h2>
+      </div>
+      <div class="col-lg-10 mx-auto testimonial-slider">
+        <!-- slider-item -->
+        <div class="text-center testimonial-content">
+          <h4 class="text-white">”I have neverseen this man sleep.”</h4>
+
+          <p class="text-white mb-4">College Roommate for two years</p>
+
+        </div>
+        <!-- slider-item -->
+        <div class="text-center testimonial-content">
+          <h4 class="text-white">”Had fun meeting Tanay. He’s smart, energized, and personable!”</h4>
+
+          <p class="text-white mb-4">Stanford Professor</p>
+        </div>
+        <!-- slider-item -->
+        <div class="text-center testimonial-content">
+          <h4 class="text-white">”His jokes made me laugh so hard I needed to take stomach medicine.”</h4>
+
+          <p class="text-white mb-4">Friend</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- bg shapes -->
+  <img src="images/backgrounds/map.png" alt="map" class="img-fluid bg-map">
+  <img src="images/illustrations/dots-group-v.png" alt="bg-shape" class="img-fluid bg-shape-1">
+  <img src="images/illustrations/leaf-orange.png" alt="bg-shape" class="img-fluid bg-shape-2">
+  <img src="images/illustrations/dots-group-sm.png" alt="bg-shape" class="img-fluid bg-shape-3">
+  <img src="images/illustrations/leaf-pink-round.png" alt="bg-shape" class="img-fluid bg-shape-4">
+  <img src="images/illustrations/leaf-cyan.png" alt="bg-shape" class="img-fluid bg-shape-5">
+</section>
+<!-- /testimonial -->
+
+<!-- client logo slider -->
+<section class="section pb-0">
+  <div class="container">
+    <div class="client-logo-slider d-flex align-items-center">
+      <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+          src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+      <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+          src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+      <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+          src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+      <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+          src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+      <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+          src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+      <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+          src="images/clients-logo/client-logo-1.png" alt="client-logo"></a>
+      <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+          src="images/clients-logo/client-logo-2.png" alt="client-logo"></a>
+      <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+          src="images/clients-logo/client-logo-3.png" alt="client-logo"></a>
+      <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+          src="images/clients-logo/client-logo-4.png" alt="client-logo"></a>
+      <a href="#" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid"
+          src="images/clients-logo/client-logo-5.png" alt="client-logo"></a>
+    </div>
+  </div>
+</section>
+<!-- /client logo slider -->
+
+<!-- blog -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Research</h2>
+      </div>
+      <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+        <article class="card shadow">
+
+          <div class="card-body">
+            <h4 class="card-title">Andrew NG Lab | Deep Learning Researcher</a>
+            </h4>
+            <p class="cars-text">Jan 2018 – Nov 2018 | Stanford, CA<br>
+Worked with Pranav Rajpurkar and Prof Andrew Ng to build a state-of-the-art
+system to detect Pulmonary Embolism in Chest CT Scans. Our custom network
+(XNet) achieved a 0.907 AUROC on 5000 studies from the Stanford Hospital.</p>
+
+          </div>
+        </article>
+      </div>
+      <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+        <article class="card shadow">
+
+          <div class="card-body">
+            <h4 class="card-title">Kundaje Lab | DL IN Genomics Researcher</a>
+            </h4>
+            <p class="cars-text">Aug 2018 – Present | Stanford, CA<br>
+Working with Prof Anshul Kundaje to detect protein binding regions in DNA
+sequences through ChIP-seq data. Ongoing.</p>
+
+          </div>
+        </article>
+      </div>
+      <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+        <article class="card shadow">
+
+          <div class="card-body">
+            <h4 class="card-title">Early Detect | Product & Researcher</a>
+            </h4>
+            <p class="cars-text">May 2015 – Jun 2017 | Stanford, CA<br>
+Worked with hospitals and developed machine learning models for early diagnosis of
+5 different kinds of cancers. Launched product for primary physicians (Now
+rebranded as Cara.ai). Acknowledgements: Prof. Daphne Koller, Stanford.</p>
+
+          </div>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /blog -->
+
+<!-- contact -->
+<section class="section section-on-footer" data-background="images/backgrounds/bg-dots.png">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Contact Info</h2>
+      </div>
+      <div class="col-lg-8 mx-auto">
+        <div class="bg-white rounded text-center p-5 shadow-down">
+          <h4 class="mb-80">Contact Form</h4>
+          <form action="https://formspree.io/write.radhikadutt@gmail.com"
+  method="POST class="row">
+            <div class="col-md-6">
+              <input type="text" id="name" name="name" placeholder="Full Name" class="form-control px-0 mb-4">
+            </div>
+            <div class="col-md-6">
+              <input type="email" id="email" name="email" placeholder="Email Address" class="form-control px-0 mb-4">
+            </div>
+            <div class="col-12">
+              <textarea name="message" id="message" class="form-control px-0 mb-4"
+                placeholder="Type Message Here"></textarea>
+            </div>
+            <div class="col-lg-6 col-10 mx-auto">
+              <button class="btn btn-primary w-100">send</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /contact -->
+
+<!-- footer -->
+<footer class="bg-dark footer-section">
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h5 class="text-light">Email</h5>
+          <p class="text-white paragraph-lg font-secondary">tkothari@stanford.edu</p>
+        </div>
+        <div class="col-md-4">
+          <h5 class="text-light">Phone</h5>
+          <p class="text-white paragraph-lg font-secondary">(650) 223-4807 </p>
+        </div>
+        <div class="col-md-4">
+          <h5 class="text-light">Address</h5>
+          <p class="text-white paragraph-lg font-secondary">Stanford, CA</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="border-top text-center border-dark py-5">
+    <p class="mb-0 text-light">Copyright ©<script>
+        var CurrentYear = new Date().getFullYear()
+        document.write(CurrentYear)
+      </script> Site supported by <a href="https://www.radhikadutt.com/">Radhika Dutt</a></p>
+  </div>
+</footer>
+<!-- /footer -->
+
+<!-- jQuery -->
+<script src="plugins/jQuery/jquery.min.js"></script>
+<!-- Bootstrap JS -->
+<script src="plugins/bootstrap/bootstrap.min.js"></script>
+<!-- slick slider -->
+<script src="plugins/slick/slick.min.js"></script>
+<!-- filter -->
+<script src="plugins/shuffle/shuffle.min.js"></script>
+
+<!-- Main Script -->
+<script src="js/script.js"></script>
+
+</body>
 </html>
